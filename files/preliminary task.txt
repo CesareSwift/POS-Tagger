@@ -1,0 +1,9 @@
+Classification report for top tag classes (PLEASE REPORT THIS ONE):
+              precision    recall  f1-score   support
+        NOUN      0.683     0.923     0.785      4198
+        PRON      0.970     0.938     0.954      2220
+       PUNCT      0.995     0.988     0.992      3077
+        VERB      0.867     0.774     0.818      2762
+    accuracy                          0.856     25151
+   macro avg      0.858     0.775     0.794     25151
+weighted avg      0.871     0.856     0.853     25151

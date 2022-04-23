@@ -1,0 +1,5 @@
+transformers
+scikit-learn
+pyconll
+click==7.1.1
+spacy==3.0

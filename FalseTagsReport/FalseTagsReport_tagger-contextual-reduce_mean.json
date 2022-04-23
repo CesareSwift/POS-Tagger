@@ -1,0 +1,1056 @@
+{"True Label": "ADV", "Prediction": "ADJ", "TEXT": "What if Google expanded on its search-engine (and now e-mail) wares into a full-fledged operating system?", "Token": "full"}
+{"True Label": "ADJ", "Prediction": "VERB", "TEXT": "What if Google expanded on its search-engine (and now e-mail) wares into a full-fledged operating system?", "Token": "fledged"}
+{"True Label": "ADJ", "Prediction": "ADV", "TEXT": "(And, by the way, is anybody else just a little nostalgic for the days when that was a good thing?)", "Token": "else"}
+{"True Label": "ADJ", "Prediction": "NOUN", "TEXT": "(And, by the way, is anybody else just a little nostalgic for the days when that was a good thing?)", "Token": "little"}
+{"True Label": "NOUN", "Prediction": "ADJ", "TEXT": "(And, by the way, is anybody else just a little nostalgic for the days when that was a good thing?)", "Token": "nostalgic"}
+{"True Label": "ADV", "Prediction": "SCONJ", "TEXT": "(And, by the way, is anybody else just a little nostalgic for the days when that was a good thing?)", "Token": "when"}
+{"True Label": "ADV", "Prediction": "DET", "TEXT": "This BuzzMachine post argues that Google's rush toward ubiquity might backfire -- which we've all heard before, but it's particularly well-put in this post.", "Token": "all"}
+{"True Label": "PART", "Prediction": "ADV", "TEXT": "I doubt the very few who actually read my blog have not come across this yet, but I figured I would put it out there anyways.", "Token": "not"}
+{"True Label": "ADV", "Prediction": "ADP", "TEXT": "I doubt the very few who actually read my blog have not come across this yet, but I figured I would put it out there anyways.", "Token": "out"}
+{"True Label": "ADP", "Prediction": "ADV", "TEXT": "This Fallujah operation my turn out to be the most important operation done by the US Military since the end of the war.", "Token": "out"}
+{"True Label": "ADV", "Prediction": "ADP", "TEXT": "Let me join the chorus of annoyance over Google's new toolbar , which, as noted in the linked article, commits just about every sin an online marketer could commit, and makes up a few new ones besides.", "Token": "besides"}
+{"True Label": "PROPN", "Prediction": "ADJ", "TEXT": "They are certainly being nasty to the United Nations Security Council in connection with the anti-proliferation treaty.", "Token": "Security"}
+{"True Label": "ADP", "Prediction": "ADV", "TEXT": "Many people want to use diplomacy with Iran rather than military pressure.", "Token": "rather"}
+{"True Label": "NOUN", "Prediction": "ADP", "TEXT": "Angry crowds chanted anti-American slogans in the western city of Falluja (pop. 256,000) as the security police killed in a friendly fire incident by US troops were buried on Saturday.", "Token": "pop."}
+{"True Label": "ADJ", "Prediction": "NOUN", "TEXT": "Angry crowds chanted anti-American slogans in the western city of Falluja (pop. 256,000) as the security police killed in a friendly fire incident by US troops were buried on Saturday.", "Token": "friendly"}
+{"True Label": "ADJ", "Prediction": "VERB", "TEXT": "Reuters reported that \"Sunni clerics in the town issued a 'Declaration by the people of Fallujah' condemning the deaths of the security guards and police, announcing three days of mourning, and calling for a general strike today.\"", "Token": "Sunni"}
+{"True Label": "ADJ", "Prediction": "VERB", "TEXT": "It read, \"The people of Fallujah condemn the massacre which was committed on Friday against people dedicated to the protection of Fallujah.", "Token": "dedicated"}
+{"True Label": "NOUN", "Prediction": "PROPN", "TEXT": "Falluja has long been roiled by tense relations with the US soldiers there, since local Sunnis either remain committed to Arab nationalism or have become Sunni fundamentalists or even radicals.", "Token": "soldiers"}
+{"True Label": "ADP", "Prediction": "PROPN", "TEXT": "The Supreme Court announced its ruling today in Hamdan v. Rumsfeld divided along idelogical lines with John Roberts abstaining due to his involvement at the D.C. Circuit level and Anthony Kennedy joining the liberals in a 5-3 decision that is 185 pages long.", "Token": "v."}
+{"True Label": "ADJ", "Prediction": "NOUN", "TEXT": "The Supreme Court announced its ruling today in Hamdan v. Rumsfeld divided along idelogical lines with John Roberts abstaining due to his involvement at the D.C. Circuit level and Anthony Kennedy joining the liberals in a 5-3 decision that is 185 pages long.", "Token": "idelogical"}
+{"True Label": "NUM", "Prediction": "NOUN", "TEXT": "Stay with me now: John Paul STEVENS delivered the opinion of the Court with respect to Parts I through IV, VI through VI-D-iii, VI-D-v, and VII, in which KENNEDY, SOUTER, GINSBURG, and BREYER joined, and an opinion with respect to Parts V and VI-D-iv, in which SOUTER, GINSBURG, and BREYER joined.", "Token": "IV"}
+{"True Label": "NUM", "Prediction": "NOUN", "TEXT": "Stay with me now: John Paul STEVENS delivered the opinion of the Court with respect to Parts I through IV, VI through VI-D-iii, VI-D-v, and VII, in which KENNEDY, SOUTER, GINSBURG, and BREYER joined, and an opinion with respect to Parts V and VI-D-iv, in which SOUTER, GINSBURG, and BREYER joined.", "Token": "v"}
+{"True Label": "NUM", "Prediction": "NOUN", "TEXT": "Stay with me now: John Paul STEVENS delivered the opinion of the Court with respect to Parts I through IV, VI through VI-D-iii, VI-D-v, and VII, in which KENNEDY, SOUTER, GINSBURG, and BREYER joined, and an opinion with respect to Parts V and VI-D-iv, in which SOUTER, GINSBURG, and BREYER joined.", "Token": "VI"}
+{"True Label": "NUM", "Prediction": "NOUN", "TEXT": "Stay with me now: John Paul STEVENS delivered the opinion of the Court with respect to Parts I through IV, VI through VI-D-iii, VI-D-v, and VII, in which KENNEDY, SOUTER, GINSBURG, and BREYER joined, and an opinion with respect to Parts V and VI-D-iv, in which SOUTER, GINSBURG, and BREYER joined.", "Token": "iv"}
+{"True Label": "NOUN", "Prediction": "PROPN", "TEXT": "BREYER filed a concurring opinion, in which KENNEDY, SOUTER, and GINSBURG joined.", "Token": "BREYER"}
+{"True Label": "VERB", "Prediction": "ADJ", "TEXT": "BREYER filed a concurring opinion, in which KENNEDY, SOUTER, and GINSBURG joined.", "Token": "concurring"}
+{"True Label": "VERB", "Prediction": "ADJ", "TEXT": "SCALIA filed a dissenting opinion, in which THOMAS and ALITO joined.", "Token": "dissenting"}
+{"True Label": "VERB", "Prediction": "ADJ", "TEXT": "THOMAS filed a dissenting opinion, in which SCALIA joined, and in which ALITO joined as to all but Parts I, II-C-1, and III-B-2.", "Token": "dissenting"}
+{"True Label": "VERB", "Prediction": "ADJ", "TEXT": "ALITO filed a dissenting opinion, in which SCALIA and THOMAS joined as to Parts I through III.", "Token": "dissenting"}
+{"True Label": "NOUN", "Prediction": "PRON", "TEXT": "It will take me a little while to read the whole thing, but I rarely agree with a John Paul Stevens opinion.", "Token": "thing"}
+{"True Label": "SYM", "Prediction": "PUNCT", "TEXT": "Important news such as President Bush's miniscule calibrations on his marriage amendment/anti-gay (update: he's not against gays in the bedroom, just at the altar, where of course their relationships should not only be frowned upon but should be constitutionally excluded) has pushed Sudan not just off the front pages, or the A section, but out of the NY Times and Washington Post completely.", "Token": "/"}
+{"True Label": "PROPN", "Prediction": "NOUN", "TEXT": "Important news such as President Bush's miniscule calibrations on his marriage amendment/anti-gay (update: he's not against gays in the bedroom, just at the altar, where of course their relationships should not only be frowned upon but should be constitutionally excluded) has pushed Sudan not just off the front pages, or the A section, but out of the NY Times and Washington Post completely.", "Token": "Sudan"}
+{"True Label": "ADJ", "Prediction": "NOUN", "TEXT": "Important news such as President Bush's miniscule calibrations on his marriage amendment/anti-gay (update: he's not against gays in the bedroom, just at the altar, where of course their relationships should not only be frowned upon but should be constitutionally excluded) has pushed Sudan not just off the front pages, or the A section, but out of the NY Times and Washington Post completely.", "Token": "front"}
+{"True Label": "ADP", "Prediction": "SCONJ", "TEXT": "It's symptomatic, I suppose, of our fast-paced, 24 hour news-cycle lives, that the biggest short-term humanitarian crisis in the world would quickly be eclipsed, once our Secretary of State was finished with his whirlwind tour, from the newspapers.", "Token": "of"}
+{"True Label": "ADJ", "Prediction": "ADV", "TEXT": "It's symptomatic, I suppose, of our fast-paced, 24 hour news-cycle lives, that the biggest short-term humanitarian crisis in the world would quickly be eclipsed, once our Secretary of State was finished with his whirlwind tour, from the newspapers.", "Token": "fast"}
+{"True Label": "PROPN", "Prediction": "NOUN", "TEXT": "It's symptomatic, I suppose, of our fast-paced, 24 hour news-cycle lives, that the biggest short-term humanitarian crisis in the world would quickly be eclipsed, once our Secretary of State was finished with his whirlwind tour, from the newspapers.", "Token": "Secretary"}
+{"True Label": "ADJ", "Prediction": "PROPN", "TEXT": "At that time, UN Secretary General Kofi Annan demanded steps be taken to end the ethnic violence in Darfur within 48 hours.", "Token": "General"}
+{"True Label": "NOUN", "Prediction": "DET", "TEXT": "And international donors have given only half of the relief aid that Darfur needs, according to the local UN officials.", "Token": "half"}
+{"True Label": "PROPN", "Prediction": "NOUN", "TEXT": "So hear we are, two weeks later, after that dazzling PR display two weeks ago by Powell and Annan, and the situation on the ground in Darfur appears basically unchanged.", "Token": "PR"}
+{"True Label": "PROPN", "Prediction": "NOUN", "TEXT": "It's a little hard to parse, but at this point his ostensible view is that the Gateses are very good money-redistributors, and he wants them to have the money as soon as possible.", "Token": "Gateses"}
+{"True Label": "VERB", "Prediction": "AUX", "TEXT": "It doesn't change the company's intrinsic worth, and as the article notes, the company might be added to a major index once the shares get more liquid.", "Token": "get"}
+{"True Label": "NOUN", "Prediction": "PROPN", "TEXT": "Because the 10.000.000 people dying from malaria will otherwise be dead.", "Token": "malaria"}
+{"True Label": "X", "Prediction": "NOUN", "TEXT": "i.e.", "Token": "i.e"}
+{"True Label": "ADP", "Prediction": "NOUN", "TEXT": "He's not giving 85% away, he's giving a number of shares each year that decrease in number at the rate of 5% a year (until gone?).", "Token": "away"}
+{"True Label": "SCONJ", "Prediction": "ADV", "TEXT": "He's not giving 85% away, he's giving a number of shares each year that decrease in number at the rate of 5% a year (until gone?).", "Token": "until"}
+{"True Label": "ADJ", "Prediction": "VERB", "TEXT": "He's not giving 85% away, he's giving a number of shares each year that decrease in number at the rate of 5% a year (until gone?).", "Token": "gone"}
+{"True Label": "VERB", "Prediction": "AUX", "TEXT": "It sounds pretty rational that he's saying that Bill and Melinda are at a prime spot, so starting the money hose now is a good idea, but Buffet is still keeping most of his donation inside of Berkshire where it will compound.", "Token": "are"}
+{"True Label": "PROPN", "Prediction": "NOUN", "TEXT": "Bill over at The Fourth Rail has an excellent essay on how the MSM and the UN, even the leftist countries in Europe, are basically accepting terrorist organizations as legitimate forms of a political party:", "Token": "Rail"}
+{"True Label": "ADJ", "Prediction": "NOUN", "TEXT": "Bill over at The Fourth Rail has an excellent essay on how the MSM and the UN, even the leftist countries in Europe, are basically accepting terrorist organizations as legitimate forms of a political party:", "Token": "terrorist"}
+{"True Label": "ADJ", "Prediction": "PROPN", "TEXT": "UN Secretary-General Kofi Annan has indicated it is time to \"recognize Hezbollah\" after easily being duped by \"the message on the placards they are using\".", "Token": "General"}
+{"True Label": "ADJ", "Prediction": "NOUN", "TEXT": "This acceptance of blatantly terrorist groups as legitimate freedom movements is a cancerous tumor on the United Nations and the media.", "Token": "terrorist"}
+{"True Label": "NUM", "Prediction": "PROPN", "TEXT": "Over three years after 9-11, the United Nations, despite their attempts to project strength in fighting terrorism , still cannot properly define the word \"terrorist\" , waffling over the issue of whether the murder of innocent civilians are terrorist acts.", "Token": "9-11"}
+{"True Label": "SCONJ", "Prediction": "ADP", "TEXT": "Over three years after 9-11, the United Nations, despite their attempts to project strength in fighting terrorism , still cannot properly define the word \"terrorist\" , waffling over the issue of whether the murder of innocent civilians are terrorist acts.", "Token": "of"}
+{"True Label": "ADJ", "Prediction": "NOUN", "TEXT": "Over three years after 9-11, the United Nations, despite their attempts to project strength in fighting terrorism , still cannot properly define the word \"terrorist\" , waffling over the issue of whether the murder of innocent civilians are terrorist acts.", "Token": "terrorist"}
+{"True Label": "VERB", "Prediction": "AUX", "TEXT": "I've been fuming over this fact for a few weeks now, ever since some organizations and governments suggested we need to accept the fact that Hezbollah will get involved in running Lebanon.", "Token": "get"}
+{"True Label": "PRON", "Prediction": "ADV", "TEXT": "Wtf is this?", "Token": "Wtf"}
+{"True Label": "ADJ", "Prediction": "NOUN", "TEXT": "This is a terrorist organization plain and simple.", "Token": "terrorist"}
+{"True Label": "ADJ", "Prediction": "ADV", "TEXT": "This is a terrorist organization plain and simple.", "Token": "simple"}
+{"True Label": "PROPN", "Prediction": "NOUN", "TEXT": "This is the organization that bombed our Marine barracks in 1983, took Americans hostage throughout the 80's and now they should be considered a legitimate organization?", "Token": "Americans"}
+{"True Label": "NOUN", "Prediction": "ADJ", "TEXT": "It is now threatening to pull out of the Allawi caretaker government.", "Token": "caretaker"}
+{"True Label": "SCONJ", "Prediction": "ADP", "TEXT": "That the Iraqi Islamic Party is now contemplating leaving the Allawi government raises the question of whether a mass Sunni Arab boycott of the elections is in the offing, thus fatally weakening the legitimacy of any new government.", "Token": "of"}
+{"True Label": "PROPN", "Prediction": "ADJ", "TEXT": "That the Iraqi Islamic Party is now contemplating leaving the Allawi government raises the question of whether a mass Sunni Arab boycott of the elections is in the offing, thus fatally weakening the legitimacy of any new government.", "Token": "Arab"}
+{"True Label": "VERB", "Prediction": "ADJ", "TEXT": "In a communique, the AMS said that for Iraqis to take part with \"raiding forces\" in the assault on a city, the population of which is Muslim (such as Fallujah) would be considered the most mortal of mortal sins.", "Token": "raiding"}
+{"True Label": "ADJ", "Prediction": "PROPN", "TEXT": "The Sunni AMS told Iraqis, \"You sinned when you participated with occupation forces in the assault on Najaf, and beware lest you repeat this same sin in Fallujah.", "Token": "Sunni"}
+{"True Label": "ADJ", "Prediction": "NOUN", "TEXT": "The statement said, \"We direct an appeal at the men in the Iraqi forces, whether national guards or others, the majority of whom are Muslim, calling upon them to refrain for commiting this enormous sin under the banner of forces that do not respect our religion or any principles of basic humanity, and we ask them to view this war as illegal.\"", "Token": "national"}
+{"True Label": "ADV", "Prediction": "ADP", "TEXT": "The convergence of views among the more militant Sunni Muslim clerics of AMS and the radical Shiites of the Sadr movement has been seen before, last spring during the initial US assault on Fallujah and during the US attack on Mahdi Army militiamen in Najaf.", "Token": "before"}
+{"True Label": "PROPN", "Prediction": "ADJ", "TEXT": "U.S. officials have said the plot, thwarted by Britain, to blow up several aircraft over the Atlantic bore many of the hallmarks of al Qaeda.", "Token": "U.S."}
+{"True Label": "PROPN", "Prediction": "NOUN", "TEXT": "U.S. officials have said the plot, thwarted by Britain, to blow up several aircraft over the Atlantic bore many of the hallmarks of al Qaeda.", "Token": "Atlantic"}
+{"True Label": "ADV", "Prediction": "ADJ", "TEXT": "\"We believe this is an ill-advised term and we believe that it is counterproductive to associate Islam or Muslims with fascism,\" said Nihad Awad, executive director of the Council on American-Islamic Relations advocacy group.", "Token": "ill"}
+{"True Label": "PROPN", "Prediction": "NOUN", "TEXT": "\"We believe this is an ill-advised term and we believe that it is counterproductive to associate Islam or Muslims with fascism,\" said Nihad Awad, executive director of the Council on American-Islamic Relations advocacy group.", "Token": "Islam"}
+{"True Label": "PROPN", "Prediction": "NOUN", "TEXT": "\"We believe this is an ill-advised term and we believe that it is counterproductive to associate Islam or Muslims with fascism,\" said Nihad Awad, executive director of the Council on American-Islamic Relations advocacy group.", "Token": "Muslims"}
+{"True Label": "AUX", "Prediction": "VERB", "TEXT": "Which is why he didn't say we're at war with Islamic people.", "Token": "is"}
+{"True Label": "ADV", "Prediction": "SCONJ", "TEXT": "Which is why he didn't say we're at war with Islamic people.", "Token": "why"}
+{"True Label": "PROPN", "Prediction": "NOUN", "TEXT": "By using the word \"Islamic\" as an adjective Bush was purposely not associating Muslims with fascism, hence the qualifier.", "Token": "Muslims"}
+{"True Label": "ADV", "Prediction": "ADP", "TEXT": "By using the word \"Islamic\" as an adjective Bush was purposely not associating Muslims with fascism, hence the qualifier.", "Token": "hence"}
+{"True Label": "ADV", "Prediction": "PART", "TEXT": "And if you haven't heard by now, the roster of suspected terrorists has not a Tom, Dick or Harry among them:", "Token": "not"}
+{"True Label": "PROPN", "Prediction": "NUM", "TEXT": "Umir Hussain, 24, London E14", "Token": "E14"}
+{"True Label": "PROPN", "Prediction": "X", "TEXT": "Ibrahim Savant, 26, London E17", "Token": "E17"}
+{"True Label": "PROPN", "Prediction": "NOUN", "TEXT": "Tanvir Hussain, 24, London E10", "Token": "E10"}
+{"True Label": "PROPN", "Prediction": "X", "TEXT": "Abdullah Ali, 26, London E17", "Token": "E17"}
+{"True Label": "PROPN", "Prediction": "NOUN", "TEXT": "Abdul Muneem Patel, 17, London E5", "Token": "E5"}
+{"True Label": "PROPN", "Prediction": "NOUN", "TEXT": "Nabeel Hussain, 21, Waltham Forest Lest you be confused with the suspects from an earlier plot foiled in Canada a few months ago: Fahim Ahmad, 21, Toronto;", "Token": "Forest"}
+{"True Label": "ADJ", "Prediction": "VERB", "TEXT": "Nabeel Hussain, 21, Waltham Forest Lest you be confused with the suspects from an earlier plot foiled in Canada a few months ago: Fahim Ahmad, 21, Toronto;", "Token": "confused"}
+{"True Label": "PROPN", "Prediction": "NUM", "TEXT": "Yasim Abdi Mohamed, 24, Kingston;", "Token": "Kingston"}
+{"True Label": "NOUN", "Prediction": "VERB", "TEXT": "Steven Vikash Chand alias Abdul Shakur, 25, Toronto;", "Token": "alias"}
+{"True Label": "PROPN", "Prediction": "NOUN", "TEXT": "We've got a Steven, the one word that didn't crash my spell-check, despite it being followed by a Vikash Chand Abdul Shakur.", "Token": "Steven"}
+{"True Label": "NUM", "Prediction": "ADJ", "TEXT": "We've got a Steven, the one word that didn't crash my spell-check, despite it being followed by a Vikash Chand Abdul Shakur.", "Token": "one"}
+{"True Label": "NOUN", "Prediction": "INTJ", "TEXT": "Folks, if it's Islamic, and fascist, it's an Islamic fascist.", "Token": "Folks"}
+{"True Label": "ADV", "Prediction": "ADJ", "TEXT": "But because we don't want to sound hateful we must pretend everyone's a possible suspect and make airline travel more miserable than it's ever been.", "Token": "more"}
+{"True Label": "ADJ", "Prediction": "PROPN", "TEXT": "One witness at the Moutasaddiq trial in Germany alleged that Zarqawi had not allowed Monotheism and Holy War to share resources with al-Qaeda in the early zeroes of the 21st century.", "Token": "Holy"}
+{"True Label": "VERB", "Prediction": "ADJ", "TEXT": "If the statement is true, it is a worrying sign that even the divided small radical guerrilla groups are being \"picked up\" by al-Qaeda.", "Token": "divided"}
+{"True Label": "ADV", "Prediction": "ADP", "TEXT": "If the statement is true, it is a worrying sign that even the divided small radical guerrilla groups are being \"picked up\" by al-Qaeda.", "Token": "up"}
+{"True Label": "PROPN", "Prediction": "NOUN", "TEXT": "It could notionally be expanded to encompass the 5,000-strong \"55th Brigade\" of the Taliban regime, though this is not the technical definition.", "Token": "Brigade"}
+{"True Label": "NOUN", "Prediction": "ADJ", "TEXT": "Because Usamah is Saudi, my guess is that they were especially influenced by an extremist form of the Wahhabi school of Islam that predominates among Saudia's some 15 million citizens.", "Token": "extremist"}
+{"True Label": "ADJ", "Prediction": "PROPN", "TEXT": "Because Usamah is Saudi, my guess is that they were especially influenced by an extremist form of the Wahhabi school of Islam that predominates among Saudia's some 15 million citizens.", "Token": "Wahhabi"}
+{"True Label": "ADV", "Prediction": "ADP", "TEXT": "In 1998 they were joined by Egyptians from the al-Jihad al-Islami group of Ayman al-Zawahiri (many of these were from Upper Egypt, especially Asyut and environs).", "Token": "especially"}
+{"True Label": "NOUN", "Prediction": "ADJ", "TEXT": "After that point, al-Qaeda was a joint enterprise between the Egyptian extremists and the polyglot Arabs around Bin Laden, only some of whom were Saudi.", "Token": "polyglot"}
+{"True Label": "PROPN", "Prediction": "ADJ", "TEXT": "Zarqawi is a Jordanian, and his Monotheism and Holy War group in Afghanistan probably had a distinctive coloration as mainly Jordanian, Palestinian and Syrian.", "Token": "Jordanian"}
+{"True Label": "ADJ", "Prediction": "PROPN", "TEXT": "They are probably especially oriented toward the Salafi school of modern Islamic thought, which has a Protestant-like emphasis on going back to the original practice of the early companions of the Prophet Muhammad.", "Token": "Salafi"}
+{"True Label": "PROPN", "Prediction": "NOUN", "TEXT": "They are probably especially oriented toward the Salafi school of modern Islamic thought, which has a Protestant-like emphasis on going back to the original practice of the early companions of the Prophet Muhammad.", "Token": "Protestant"}
+{"True Label": "PROPN", "Prediction": "ADJ", "TEXT": "(Most Salafis are not militant or violent, though they tend to be rather narrow-minded in my experience, on the order of Protestant Pietists).", "Token": "Protestant"}
+{"True Label": "NOUN", "Prediction": "PROPN", "TEXT": "(Most Salafis are not militant or violent, though they tend to be rather narrow-minded in my experience, on the order of Protestant Pietists).", "Token": "Pietists"}
+{"True Label": "ADJ", "Prediction": "PROPN", "TEXT": "Monotheism and Holy War obviously does have a violent interpretation of Salafism, rather as the the leaders of the so-called German Peasant Rebellion among early Protestants did.", "Token": "German"}
+{"True Label": "PROPN", "Prediction": "NOUN", "TEXT": "Monotheism and Holy War obviously does have a violent interpretation of Salafism, rather as the the leaders of the so-called German Peasant Rebellion among early Protestants did.", "Token": "Rebellion"}
+{"True Label": "VERB", "Prediction": "ADJ", "TEXT": "Another worrisome sign is that local Iraqi Sunni fundamentalists opposed to the US presence in Iraq have begun joining Monotheism and Holy War, and wearing its distinctive orange and black insignia.", "Token": "opposed"}
+{"True Label": "ADJ", "Prediction": "PROPN", "TEXT": "Another worrisome sign is that local Iraqi Sunni fundamentalists opposed to the US presence in Iraq have begun joining Monotheism and Holy War, and wearing its distinctive orange and black insignia.", "Token": "Holy"}
+{"True Label": "NOUN", "Prediction": "PROPN", "TEXT": "The consolidation of smaller local radical fundamentalist groups with al-Qaeda can also be seen in the case of the Fizazi group in Tangiers that morphed into the Moroccan Islamic Combatant Group , had members who met with September 11 ringleader Muhammad Atta, and ultimately was in part responsible for the Madrid train bombings.", "Token": "Tangiers"}
+{"True Label": "SCONJ", "Prediction": "ADP", "TEXT": "The consolidation of smaller local radical fundamentalist groups with al-Qaeda can also be seen in the case of the Fizazi group in Tangiers that morphed into the Moroccan Islamic Combatant Group , had members who met with September 11 ringleader Muhammad Atta, and ultimately was in part responsible for the Madrid train bombings.", "Token": "into"}
+{"True Label": "PROPN", "Prediction": "NOUN", "TEXT": "The September 11 Panel will issue its findings on Thursday.", "Token": "Panel"}
+{"True Label": "VERB", "Prediction": "AUX", "TEXT": "Bush came out today and said that if he had known what was coming, he would have expended every effort to stop it, and that so would have Clinton.", "Token": "have"}
+{"True Label": "NOUN", "Prediction": "ADV", "TEXT": "Of course Bush would have tried to stop 9/11 if he had known it was coming.", "Token": "course"}
+{"True Label": "NUM", "Prediction": "PROPN", "TEXT": "Of course Bush would have tried to stop 9/11 if he had known it was coming.", "Token": "9/11"}
+{"True Label": "AUX", "Prediction": "VERB", "TEXT": "The answer is, \"Yes!\"", "Token": "is"}
+{"True Label": "NOUN", "Prediction": "PROPN", "TEXT": "Wolfowitz contradicted counter-terrorism czar Richard Clarke when the latter spoke of the al-Qaeda threat, insisting that the preeminent threat of terrorism against the US came from Iraq, and indicating he accepted Laurie Mylroie's crackpot conspiracy theory that Saddam was behind the 1993 World Trade Towers bombing.", "Token": "counter-terrorism"}
+{"True Label": "NOUN", "Prediction": "ADJ", "TEXT": "Wolfowitz contradicted counter-terrorism czar Richard Clarke when the latter spoke of the al-Qaeda threat, insisting that the preeminent threat of terrorism against the US came from Iraq, and indicating he accepted Laurie Mylroie's crackpot conspiracy theory that Saddam was behind the 1993 World Trade Towers bombing.", "Token": "crackpot"}
+{"True Label": "VERB", "Prediction": "AUX", "TEXT": "Wolfowitz lied to him and said that there was a 10 to 50% chance that Iraq was behind them.", "Token": "was"}
+{"True Label": "PUNCT", "Prediction": "ADV", "TEXT": "The hijackers were obviously al-Qaeda, and no operational links between al-Qaeda and Iraq had ever been found).", "Token": ")"}
+{"True Label": "CCONJ", "Prediction": "ADV", "TEXT": "Neither did Cheney, Rumsfeld, or Wolfowitz.", "Token": "Neither"}
+{"True Label": "ADJ", "Prediction": "PROPN", "TEXT": "Imperial Hubris makes the case that lots of people in the CIA and counter-terrorism divisions elsewhere in the US government knew all about Bin Laden and the threat he posed.", "Token": "Imperial"}
+{"True Label": "NOUN", "Prediction": "PROPN", "TEXT": "Imperial Hubris makes the case that lots of people in the CIA and counter-terrorism divisions elsewhere in the US government knew all about Bin Laden and the threat he posed.", "Token": "Hubris"}
+{"True Label": "ADJ", "Prediction": "X", "TEXT": "Imperial Hubris makes the case that lots of people in the CIA and counter-terrorism divisions elsewhere in the US government knew all about Bin Laden and the threat he posed.", "Token": "counter-terrorism"}
+{"True Label": "ADV", "Prediction": "DET", "TEXT": "Imperial Hubris makes the case that lots of people in the CIA and counter-terrorism divisions elsewhere in the US government knew all about Bin Laden and the threat he posed.", "Token": "all"}
+{"True Label": "PROPN", "Prediction": "ADJ", "TEXT": "Dick could never thereafter get any real cooperation from the cabinet officers, who outranked him, and he could not convince them to go to battle stations in the summer of 2001 when George Tenet's hair was \"on fire\" about the excited chatter the CIA was picking up from radical Islamist terrorists.", "Token": "Islamist"}
+{"True Label": "ADJ", "Prediction": "VERB", "TEXT": "The plan was all set and could have succeeded.", "Token": "set"}
+{"True Label": "PRON", "Prediction": "DET", "TEXT": "But for those of you tempted in that direction, please look up Carter's Tabas operation.", "Token": "those"}
+{"True Label": "VERB", "Prediction": "AUX", "TEXT": "The gods weren't with us on that one.", "Token": "were"}
+{"True Label": "NUM", "Prediction": "NOUN", "TEXT": "The gods weren't with us on that one.", "Token": "one"}
+{"True Label": "VERB", "Prediction": "AUX", "TEXT": "that is how i want you to refer to me as \"the king\"", "Token": "is"}
+{"True Label": "PROPN", "Prediction": "NOUN", "TEXT": "want to go to dinner with me before you have your 'matt time'?", "Token": "matt"}
+{"True Label": "ADV", "Prediction": "VERB", "TEXT": "probablyl gonna just kick it", "Token": "probablyl"}
+{"True Label": "ADP", "Prediction": "INTJ", "TEXT": "like what?", "Token": "like"}
+{"True Label": "NOUN", "Prediction": "PROPN", "TEXT": "cockerspaniels are retarded.", "Token": "cocker"}
+{"True Label": "ADV", "Prediction": "DET", "TEXT": "that's fine, i don't want to see you either, i just need to make a cd.", "Token": "either"}
+{"True Label": "PRON", "Prediction": "PROPN", "TEXT": "i can't wait", "Token": "i"}
+{"True Label": "AUX", "Prediction": "SCONJ", "TEXT": "i can't wait", "Token": "ca"}
+{"True Label": "NOUN", "Prediction": "ADJ", "TEXT": "someplace that is like $30 an entree.", "Token": "someplace"}
+{"True Label": "ADP", "Prediction": "INTJ", "TEXT": "someplace that is like $30 an entree.", "Token": "like"}
+{"True Label": "NOUN", "Prediction": "ADV", "TEXT": "yeah, i was thinking somewhere like mcdonald's.", "Token": "somewhere"}
+{"True Label": "NOUN", "Prediction": "ADV", "TEXT": "we can go somewhere nice.", "Token": "somewhere"}
+{"True Label": "ADJ", "Prediction": "ADV", "TEXT": "real nice.", "Token": "real"}
+{"True Label": "NOUN", "Prediction": "ADJ", "TEXT": "real nice.", "Token": "nice"}
+{"True Label": "NOUN", "Prediction": "ADJ", "TEXT": "my bad.", "Token": "bad"}
+{"True Label": "NOUN", "Prediction": "PROPN", "TEXT": "bet?", "Token": "bet"}
+{"True Label": "NOUN", "Prediction": "X", "TEXT": "really, i have no idea what you're talking about.", "Token": "idea"}
+{"True Label": "PROPN", "Prediction": "NOUN", "TEXT": "i don't even like a&m, i wouldn't bet on them.", "Token": "a&m"}
+{"True Label": "PROPN", "Prediction": "NOUN", "TEXT": "colorado beat texas a&m.", "Token": "a&m"}
+{"True Label": "ADJ", "Prediction": "VERB", "TEXT": "houston won't be too affected b/c most of the layoffs affect satelite offices.", "Token": "affected"}
+{"True Label": "SCONJ", "Prediction": "VERB", "TEXT": "houston won't be too affected b/c most of the layoffs affect satelite offices.", "Token": "b/c"}
+{"True Label": "ADV", "Prediction": "ADP", "TEXT": "I heard that more may be going up for sale in the next month or do.", "Token": "up"}
+{"True Label": "ADV", "Prediction": "ADJ", "TEXT": "I don't know how much it will help however.", "Token": "much"}
+{"True Label": "ADJ", "Prediction": "VERB", "TEXT": "I am amazed how the details get fuzzy on an old project.", "Token": "amazed"}
+{"True Label": "VERB", "Prediction": "AUX", "TEXT": "I am amazed how the details get fuzzy on an old project.", "Token": "get"}
+{"True Label": "DET", "Prediction": "PRON", "TEXT": "These guys tried the Ken Lay route.", "Token": "These"}
+{"True Label": "PART", "Prediction": "VERB", "TEXT": "Not going well", "Token": "Not"}
+{"True Label": "ADV", "Prediction": "ADJ", "TEXT": "Please update daily", "Token": "daily"}
+{"True Label": "ADJ", "Prediction": "NOUN", "TEXT": "Original Margin Call Margin Due Today", "Token": "Due"}
+{"True Label": "PROPN", "Prediction": "NOUN", "TEXT": "AEP $19,250,000 $38,750,000", "Token": "AEP"}
+{"True Label": "PART", "Prediction": "ADV", "TEXT": "not sure, but i assume that the bluegrass songbook is mine.", "Token": "not"}
+{"True Label": "AUX", "Prediction": "VERB", "TEXT": "is it for guitar?", "Token": "is"}
+{"True Label": "ADV", "Prediction": "ADP", "TEXT": "I'll try to get back to you pronto.", "Token": "back"}
+{"True Label": "NOUN", "Prediction": "ADJ", "TEXT": "I think this is actually a good thing--makes our proposal look like a much more preferable alternative by comparison, makes our support in the process more important, and sets Harvey up as the Ralph Nader equivalent in the election to fix California's broken system---a potential spoiler.", "Token": "equivalent"}
+{"True Label": "NOUN", "Prediction": "PROPN", "TEXT": "I'm not driving tonite, but I bet that we could hitch a ride back with Anil.", "Token": "tonite"}
+{"True Label": "PROPN", "Prediction": "NOUN", "TEXT": "daily dose on enron -", "Token": "enron"}
+{"True Label": "PROPN", "Prediction": "NOUN", "TEXT": "i need to now get a job at house of pies b/c that is the only way to pay the bills.", "Token": "house"}
+{"True Label": "PROPN", "Prediction": "NOUN", "TEXT": "i need to now get a job at house of pies b/c that is the only way to pay the bills.", "Token": "pies"}
+{"True Label": "SCONJ", "Prediction": "X", "TEXT": "i need to now get a job at house of pies b/c that is the only way to pay the bills.", "Token": "b/c"}
+{"True Label": "ADV", "Prediction": "ADJ", "TEXT": "the economy is down and when enron collapses, the energy industry is going to be in a world of hurt.", "Token": "down"}
+{"True Label": "ADV", "Prediction": "VERB", "TEXT": "not to mention the market is going to be flooded with enron folks .", "Token": "not"}
+{"True Label": "PROPN", "Prediction": "NOUN", "TEXT": "not to mention the market is going to be flooded with enron folks .", "Token": "enron"}
+{"True Label": "ADP", "Prediction": "ADV", "TEXT": "Since work has gone to hell, I am hoping to find some excitement in the possibility that LSU may play in the Cotton Bowl (if Rohan \"Alabama\" Davey shows up for the next 3 games.)", "Token": "up"}
+{"True Label": "PROPN", "Prediction": "NOUN", "TEXT": "house of pies here i come.", "Token": "house"}
+{"True Label": "PROPN", "Prediction": "NOUN", "TEXT": "house of pies here i come.", "Token": "pies"}
+{"True Label": "ADV", "Prediction": "SCONJ", "TEXT": "We are still trying to work the PSE swap transaction, now that the forex desk has been able to find a fix for CPI in the market.", "Token": "now"}
+{"True Label": "NOUN", "Prediction": "PROPN", "TEXT": "We are still trying to work the PSE swap transaction, now that the forex desk has been able to find a fix for CPI in the market.", "Token": "CPI"}
+{"True Label": "ADV", "Prediction": "VERB", "TEXT": "Further to my voicemail, our colleagues in credit are calculating the reserve on the PSE swap.", "Token": "Further"}
+{"True Label": "VERB", "Prediction": "ADJ", "TEXT": "They are currently using 9.5% fixed based on the 1 year implied volatility.", "Token": "fixed"}
+{"True Label": "NOUN", "Prediction": "PROPN", "TEXT": "Volatility of USD/DM has been in the range of between 7% and 11%.", "Token": "USD"}
+{"True Label": "PUNCT", "Prediction": "SYM", "TEXT": "Volatility of USD/DM has been in the range of between 7% and 11%.", "Token": "/"}
+{"True Label": "NOUN", "Prediction": "PROPN", "TEXT": "Can one of your research staff justify a suitable 20 year volalatility number for USD/Euro.", "Token": "USD"}
+{"True Label": "PUNCT", "Prediction": "SYM", "TEXT": "Can one of your research staff justify a suitable 20 year volalatility number for USD/Euro.", "Token": "/"}
+{"True Label": "NOUN", "Prediction": "PROPN", "TEXT": "Can one of your research staff justify a suitable 20 year volalatility number for USD/Euro.", "Token": "Euro"}
+{"True Label": "NOUN", "Prediction": "SYM", "TEXT": "In addition, is there someone who could consider the correlation between US CPI and the $/euro exchange rate.", "Token": "$"}
+{"True Label": "PUNCT", "Prediction": "SYM", "TEXT": "In addition, is there someone who could consider the correlation between US CPI and the $/euro exchange rate.", "Token": "/"}
+{"True Label": "ADJ", "Prediction": "VERB", "TEXT": "The credit guys are currently assuming that there is no correlation and may consequently be double dipping the credit reserve on this basis too.", "Token": "double"}
+{"True Label": "NOUN", "Prediction": "PROPN", "TEXT": "I met you at the Risk conference last week in Houston.", "Token": "Risk"}
+{"True Label": "NOUN", "Prediction": "PROPN", "TEXT": "I was wondering if you could give me some references regarding the calculation of correlation coefficients from a GARCH model.", "Token": "GARCH"}
+{"True Label": "PROPN", "Prediction": "NOUN", "TEXT": "Magali Van Belle Consultant PHB Hagler Bailly MANAGEMENT AND ECONOMIC CONSULTANTS PHB Hagler Bailly, Inc. (202) 828-3933 direct dial 1776 Eye Street, N.W. (202) 296-3858 facsimile Washington, D.C. 20006-3700 mvanbell@haglerbailly.com e-mail", "Token": "MANAGEMENT"}
+{"True Label": "PROPN", "Prediction": "NOUN", "TEXT": "Magali Van Belle Consultant PHB Hagler Bailly MANAGEMENT AND ECONOMIC CONSULTANTS PHB Hagler Bailly, Inc. (202) 828-3933 direct dial 1776 Eye Street, N.W. (202) 296-3858 facsimile Washington, D.C. 20006-3700 mvanbell@haglerbailly.com e-mail", "Token": "ECONOMIC"}
+{"True Label": "PROPN", "Prediction": "NOUN", "TEXT": "Magali Van Belle Consultant PHB Hagler Bailly MANAGEMENT AND ECONOMIC CONSULTANTS PHB Hagler Bailly, Inc. (202) 828-3933 direct dial 1776 Eye Street, N.W. (202) 296-3858 facsimile Washington, D.C. 20006-3700 mvanbell@haglerbailly.com e-mail", "Token": "CONSULTANTS"}
+{"True Label": "NUM", "Prediction": "PROPN", "TEXT": "Magali Van Belle Consultant PHB Hagler Bailly MANAGEMENT AND ECONOMIC CONSULTANTS PHB Hagler Bailly, Inc. (202) 828-3933 direct dial 1776 Eye Street, N.W. (202) 296-3858 facsimile Washington, D.C. 20006-3700 mvanbell@haglerbailly.com e-mail", "Token": "202"}
+{"True Label": "SYM", "Prediction": "PUNCT", "TEXT": "I have settled the Ecogas/Enron/Randy Maffett lawsuit.", "Token": "/"}
+{"True Label": "AUX", "Prediction": "VERB", "TEXT": "The goal is for him to move on with his life and for us to move on as well.", "Token": "is"}
+{"True Label": "ADP", "Prediction": "ADV", "TEXT": "The goal is for him to move on with his life and for us to move on as well.", "Token": "on"}
+{"True Label": "ADP", "Prediction": "ADV", "TEXT": "The goal is for him to move on with his life and for us to move on as well.", "Token": "on"}
+{"True Label": "X", "Prediction": "PROPN", "TEXT": "Becky Stephens@ENRON", "Token": "Becky"}
+{"True Label": "PROPN", "Prediction": "ADV", "TEXT": "Michael L. Beatty & Associates, PC; #10461, #10469 & #10468 dated 5/28/00.", "Token": "PC"}
+{"True Label": "PROPN", "Prediction": "NOUN", "TEXT": "Becky A. Stephens Litigation Unit, Enron Corp. 713/853-5025 EB4809", "Token": "EB"}
+{"True Label": "NUM", "Prediction": "NOUN", "TEXT": "Becky A. Stephens Litigation Unit, Enron Corp. 713/853-5025 EB4809", "Token": "4809"}
+{"True Label": "PROPN", "Prediction": "X", "TEXT": "Christian Yoder/ENRON@enronXgate", "Token": "Christian"}
+{"True Label": "ADP", "Prediction": "ADV", "TEXT": "We are renewing our L/C's on a month to month basis for the PX per Sanders.", "Token": "per"}
+{"True Label": "PROPN", "Prediction": "NOUN", "TEXT": "We are renewing our L/C's on a month to month basis for the PX per Sanders.", "Token": "Sanders"}
+{"True Label": "ADV", "Prediction": "ADP", "TEXT": "However, the request below is to \"replenish\" the CASH that was drawn down...please advise.", "Token": "down"}
+{"True Label": "PROPN", "Prediction": "NOUN", "TEXT": "----cgy", "Token": "cgy"}
+{"True Label": "VERB", "Prediction": "ADJ", "TEXT": "By using collateral to pay these bills are we not keeping required levels available?", "Token": "required"}
+{"True Label": "VERB", "Prediction": "ADJ", "TEXT": "I spoke with Mike Collins [203-719-8385 (phone) and 203-719-7031 (fax)] who conrfirmed to me that the cap included the remaining 2.5+million remaining shares.", "Token": "remaining"}
+{"True Label": "SYM", "Prediction": "PUNCT", "TEXT": "I spoke with Mike Collins [203-719-8385 (phone) and 203-719-7031 (fax)] who conrfirmed to me that the cap included the remaining 2.5+million remaining shares.", "Token": "+"}
+{"True Label": "VERB", "Prediction": "ADJ", "TEXT": "I spoke with Mike Collins [203-719-8385 (phone) and 203-719-7031 (fax)] who conrfirmed to me that the cap included the remaining 2.5+million remaining shares.", "Token": "remaining"}
+{"True Label": "PUNCT", "Prediction": "CCONJ", "TEXT": "My assistant Joanne Rozycki has cell, car numbers to reach me.", "Token": ","}
+{"True Label": "ADJ", "Prediction": "PROPN", "TEXT": "Sara Shackleton Enron Wholesale Services 1400 Smith Street, EB3801a Houston, TX 77002 Ph: (713) 853-5620 Fax: (713) 646-3490", "Token": "Wholesale"}
+{"True Label": "NOUN", "Prediction": "PROPN", "TEXT": "Sara Shackleton Enron Wholesale Services 1400 Smith Street, EB3801a Houston, TX 77002 Ph: (713) 853-5620 Fax: (713) 646-3490", "Token": "Services"}
+{"True Label": "NUM", "Prediction": "NOUN", "TEXT": "Sara Shackleton Enron Wholesale Services 1400 Smith Street, EB3801a Houston, TX 77002 Ph: (713) 853-5620 Fax: (713) 646-3490", "Token": "3801a"}
+{"True Label": "ADJ", "Prediction": "NOUN", "TEXT": "Currently we have a blank \"sample\" for our Paragraph 13s which are attached to our sample ISDAs for (a) US Corporate, (b) Hedge Funds, (c) Municipal.", "Token": "sample"}
+{"True Label": "NUM", "Prediction": "NOUN", "TEXT": "Currently we have a blank \"sample\" for our Paragraph 13s which are attached to our sample ISDAs for (a) US Corporate, (b) Hedge Funds, (c) Municipal.", "Token": "c"}
+{"True Label": "ADJ", "Prediction": "NOUN", "TEXT": "Currently we have a blank \"sample\" for our Paragraph 13s which are attached to our sample ISDAs for (a) US Corporate, (b) Hedge Funds, (c) Municipal.", "Token": "Municipal"}
+{"True Label": "ADJ", "Prediction": "NOUN", "TEXT": "I will extract the one for the US corporate Paragraph 13 and email to your contact @ First Union Securities.", "Token": "corporate"}
+{"True Label": "ADP", "Prediction": "PUNCT", "TEXT": "I will extract the one for the US corporate Paragraph 13 and email to your contact @ First Union Securities.", "Token": "@"}
+{"True Label": "NOUN", "Prediction": "NUM", "TEXT": "I just wanted to follow up on whether you will have a chance to send a draft Credit Support Annex (similar in form to the one previously executed with ENA).", "Token": "one"}
+{"True Label": "NOUN", "Prediction": "ADV", "TEXT": "I understand you may not have credit approval yet so perhaps we can leave the appropriate sections blank in the meantime.", "Token": "meantime"}
+{"True Label": "X", "Prediction": "PROPN", "TEXT": "Michael Olsen@ENRON", "Token": "Michael"}
+{"True Label": "ADV", "Prediction": "ADP", "TEXT": "But let me know if I can spend a day, morning, or even just an afternoon down there with you whenever it is a good time.", "Token": "down"}
+{"True Label": "VERB", "Prediction": "ADJ", "TEXT": "The new fixed price deal with Equistar is #365013.", "Token": "fixed"}
+{"True Label": "PROPN", "Prediction": "ADJ", "TEXT": "D", "Token": "D"}
+{"True Label": "PUNCT", "Prediction": "SYM", "TEXT": "We just did a deal for the rest of the month for 10,000/d at meter # 1552 QE-1 @ $4.355 .... can you let me and Robert Lloyd know what the sitara # is?", "Token": "-"}
+{"True Label": "NOUN", "Prediction": "PROPN", "TEXT": "I show that we also had 20.000 at LS HPL for the 13th.", "Token": "LS"}
+{"True Label": "NOUN", "Prediction": "PROPN", "TEXT": "I show that we also had 20.000 at LS HPL for the 13th.", "Token": "HPL"}
+{"True Label": "NOUN", "Prediction": "ADJ", "TEXT": "I show that we also had 20.000 at LS HPL for the 13th.", "Token": "13th"}
+{"True Label": "PROPN", "Prediction": "NOUN", "TEXT": "Teco Tap 108.333 / HPL IFERC ; 20.000 / Enron", "Token": "Tap"}
+{"True Label": "PROPN", "Prediction": "NOUN", "TEXT": "Teco Tap 108.333 / HPL IFERC ; 20.000 / Enron", "Token": "IFERC"}
+{"True Label": "PROPN", "Prediction": "NOUN", "TEXT": "Teco Tap 85.000 / HPL IFERC ; 20.000 / Enron", "Token": "Tap"}
+{"True Label": "PROPN", "Prediction": "NOUN", "TEXT": "Teco Tap 85.000 / HPL IFERC ; 20.000 / Enron", "Token": "IFERC"}
+{"True Label": "PROPN", "Prediction": "NOUN", "TEXT": "Teco Tap 32.500 / HPL IFERC ; 20.000 / Enron", "Token": "Tap"}
+{"True Label": "PROPN", "Prediction": "NOUN", "TEXT": "Teco Tap 32.500 / HPL IFERC ; 20.000 / Enron", "Token": "IFERC"}
+{"True Label": "ADV", "Prediction": "ADP", "TEXT": "I need a new lawnmower, so I'll try to bump it up a little more.", "Token": "up"}
+{"True Label": "ADV", "Prediction": "ADJ", "TEXT": "Hope you're doing good.", "Token": "good"}
+{"True Label": "PROPN", "Prediction": "ADJ", "TEXT": "D", "Token": "D"}
+{"True Label": "PUNCT", "Prediction": "SYM", "TEXT": "???", "Token": "???"}
+{"True Label": "NOUN", "Prediction": "ADJ", "TEXT": "WE AT HOME LOVE IT AT $80+++", "Token": "HOME"}
+{"True Label": "SYM", "Prediction": "PUNCT", "TEXT": "WE AT HOME LOVE IT AT $80+++", "Token": "+++"}
+{"True Label": "ADP", "Prediction": "ADV", "TEXT": "If you want to pass this web site address along to other folks, feel free.", "Token": "along"}
+{"True Label": "NOUN", "Prediction": "PROPN", "TEXT": "- Ram Tackett (E-mail).vcf 4222", "Token": "Ram"}
+{"True Label": "X", "Prediction": "PROPN", "TEXT": "- Ram Tackett (E-mail).vcf 4222", "Token": "Tackett"}
+{"True Label": "X", "Prediction": "PUNCT", "TEXT": "- Ram Tackett (E-mail).vcf 4222", "Token": "("}
+{"True Label": "X", "Prediction": "PUNCT", "TEXT": "- Ram Tackett (E-mail).vcf 4222", "Token": ")"}
+{"True Label": "X", "Prediction": "NOUN", "TEXT": "- Ram Tackett (E-mail).vcf 4222", "Token": ".vcf"}
+{"True Label": "PROPN", "Prediction": "DET", "TEXT": "Please give me a call to discuss Nov transaction.", "Token": "Nov"}
+{"True Label": "PUNCT", "Prediction": "NOUN", "TEXT": "The game is at 12:Sat @ Compaq Center.", "Token": ":"}
+{"True Label": "SCONJ", "Prediction": "ADP", "TEXT": "Would love for you to join us.", "Token": "for"}
+{"True Label": "ADJ", "Prediction": "NOUN", "TEXT": "Today is good 12:30 ?", "Token": "good"}
+{"True Label": "ADV", "Prediction": "AUX", "TEXT": "I better pass on the Comets game.", "Token": "better"}
+{"True Label": "PROPN", "Prediction": "ADJ", "TEXT": "Janette Elbertson Administrative Coordinator EWS Legal, EB3326 Telephone: (713) 853-7906 Facsimile: (713) 646-2600 e-mail address: janette.elbertson@enron.com", "Token": "Legal"}
+{"True Label": "NOUN", "Prediction": "NUM", "TEXT": "Janette Elbertson Administrative Coordinator EWS Legal, EB3326 Telephone: (713) 853-7906 Facsimile: (713) 646-2600 e-mail address: janette.elbertson@enron.com", "Token": "EB3326"}
+{"True Label": "NOUN", "Prediction": "VERB", "TEXT": "Janette Elbertson Administrative Coordinator EWS Legal, EB3326 Telephone: (713) 853-7906 Facsimile: (713) 646-2600 e-mail address: janette.elbertson@enron.com", "Token": "Telephone"}
+{"True Label": "PUNCT", "Prediction": "NOUN", "TEXT": "The game is at 12:Sat @ Compaq Center.", "Token": ":"}
+{"True Label": "SCONJ", "Prediction": "ADP", "TEXT": "Would love for you to join us.", "Token": "for"}
+{"True Label": "PROPN", "Prediction": "ADJ", "TEXT": "Janette Elbertson Administrative Coordinator EWS Legal, EB3326 Telephone: (713) 853-7906 Facsimile: (713) 646-2600 e-mail address: janette.elbertson@enron.com", "Token": "Legal"}
+{"True Label": "NOUN", "Prediction": "NUM", "TEXT": "Janette Elbertson Administrative Coordinator EWS Legal, EB3326 Telephone: (713) 853-7906 Facsimile: (713) 646-2600 e-mail address: janette.elbertson@enron.com", "Token": "EB3326"}
+{"True Label": "NOUN", "Prediction": "VERB", "TEXT": "Janette Elbertson Administrative Coordinator EWS Legal, EB3326 Telephone: (713) 853-7906 Facsimile: (713) 646-2600 e-mail address: janette.elbertson@enron.com", "Token": "Telephone"}
+{"True Label": "ADJ", "Prediction": "NOUN", "TEXT": "Today is good 12:30 ?", "Token": "good"}
+{"True Label": "ADV", "Prediction": "AUX", "TEXT": "I better pass on the Comets game.", "Token": "better"}
+{"True Label": "PROPN", "Prediction": "ADJ", "TEXT": "Janette Elbertson Administrative Coordinator EWS Legal, EB3326 Telephone: (713) 853-7906 Facsimile: (713) 646-2600 e-mail address: janette.elbertson@enron.com", "Token": "Legal"}
+{"True Label": "NOUN", "Prediction": "NUM", "TEXT": "Janette Elbertson Administrative Coordinator EWS Legal, EB3326 Telephone: (713) 853-7906 Facsimile: (713) 646-2600 e-mail address: janette.elbertson@enron.com", "Token": "EB3326"}
+{"True Label": "NOUN", "Prediction": "VERB", "TEXT": "Janette Elbertson Administrative Coordinator EWS Legal, EB3326 Telephone: (713) 853-7906 Facsimile: (713) 646-2600 e-mail address: janette.elbertson@enron.com", "Token": "Telephone"}
+{"True Label": "ADV", "Prediction": "PART", "TEXT": "it is to late for me to add changes.", "Token": "to"}
+{"True Label": "ADJ", "Prediction": "NOUN", "TEXT": "A big rally then took the Dow (unconfirmed) to a record high of 1051 in January of '73, turning everyone bullish.", "Token": "record"}
+{"True Label": "NOUN", "Prediction": "ADJ", "TEXT": "Think that was bad - by December of '74 the Dow had sunk to a bear market low of 577.", "Token": "bear"}
+{"True Label": "PROPN", "Prediction": "ADJ", "TEXT": "At that time, the gurus and geniuses of Wall Street were predicting a 250 Dow and many were talking openly about the end of capitalism.", "Token": "Wall"}
+{"True Label": "PROPN", "Prediction": "NOUN", "TEXT": "At that time, the gurus and geniuses of Wall Street were predicting a 250 Dow and many were talking openly about the end of capitalism.", "Token": "Dow"}
+{"True Label": "NOUN", "Prediction": "ADJ", "TEXT": "And that's the way the greatest bear market since the Depression worked its way down.", "Token": "bear"}
+{"True Label": "ADV", "Prediction": "ADP", "TEXT": "And that's the way the greatest bear market since the Depression worked its way down.", "Token": "down"}
+{"True Label": "PUNCT", "Prediction": "ADP", "TEXT": "By late 1974 investors were dizzy, they were desperate, they were wrung-out, they had left Wall Street, many for good.", "Token": "-"}
+{"True Label": "PROPN", "Prediction": "X", "TEXT": "DEBRA PERLINGIERE", "Token": "DEBRA"}
+{"True Label": "ADV", "Prediction": "ADP", "TEXT": "I will not be there at 7:30, but will see you arond 9:30 on Tuesday.", "Token": "arond"}
+{"True Label": "ADV", "Prediction": "NOUN", "TEXT": "FYI,", "Token": "FYI"}
+{"True Label": "ADP", "Prediction": "VERB", "TEXT": "Per the memo, ENA's storage account will be REDUCED by 420,588 mmbtu!!!!!!", "Token": "Per"}
+{"True Label": "PUNCT", "Prediction": "ADV", "TEXT": "As we have discussed....effective Sep 13th, Anita will make the adjustments to Enron's inventory and pad gas to reflect the February 26th results.", "Token": "...."}
+{"True Label": "VERB", "Prediction": "NOUN", "TEXT": "The correction to the working gas includes TWO corrections.", "Token": "working"}
+{"True Label": "VERB", "Prediction": "AUX", "TEXT": "In addition, there is a reduction of 22,101MMBTU which is the difference between the SCADA values (Best Available) that Anita showed on the February 29th Storage Sheet and the \"official\" February 29th values that Gary Wilson received from MIPS.", "Token": "is"}
+{"True Label": "ADJ", "Prediction": "ADV", "TEXT": "In addition, there is a reduction of 22,101MMBTU which is the difference between the SCADA values (Best Available) that Anita showed on the February 29th Storage Sheet and the \"official\" February 29th values that Gary Wilson received from MIPS.", "Token": "Best"}
+{"True Label": "NOUN", "Prediction": "PROPN", "TEXT": "In addition, there is a reduction of 22,101MMBTU which is the difference between the SCADA values (Best Available) that Anita showed on the February 29th Storage Sheet and the \"official\" February 29th values that Gary Wilson received from MIPS.", "Token": "MIPS"}
+{"True Label": "VERB", "Prediction": "NOUN", "TEXT": "Enron's working gas will be reduced by 420,588MMBTU.", "Token": "working"}
+{"True Label": "ADV", "Prediction": "PROPN", "TEXT": "fyi", "Token": "fyi"}
+{"True Label": "VERB", "Prediction": "AUX", "TEXT": "Did you get in as much trouble as I did this weekend - Lori seems to think I need to get help - I told her it's normal to drink all day at a bar, then go to dinner where you don't know half the people there and proceed to get extremely fucked up", "Token": "did"}
+{"True Label": "PUNCT", "Prediction": "CCONJ", "TEXT": "Did you get in as much trouble as I did this weekend - Lori seems to think I need to get help - I told her it's normal to drink all day at a bar, then go to dinner where you don't know half the people there and proceed to get extremely fucked up", "Token": ","}
+{"True Label": "DET", "Prediction": "ADV", "TEXT": "Did you get in as much trouble as I did this weekend - Lori seems to think I need to get help - I told her it's normal to drink all day at a bar, then go to dinner where you don't know half the people there and proceed to get extremely fucked up", "Token": "half"}
+{"True Label": "AUX", "Prediction": "VERB", "TEXT": "Did you get in as much trouble as I did this weekend - Lori seems to think I need to get help - I told her it's normal to drink all day at a bar, then go to dinner where you don't know half the people there and proceed to get extremely fucked up", "Token": "get"}
+{"True Label": "PUNCT", "Prediction": "SYM", "TEXT": "Privileged/Confidential Information may be contained in this message.", "Token": "/"}
+{"True Label": "NOUN", "Prediction": "VERB", "TEXT": "Please advise immediately if you or your employer do not consent to Internet email for messages of this kind.", "Token": "Internet"}
+{"True Label": "ADP", "Prediction": "CCONJ", "TEXT": "Please advise immediately if you or your employer do not consent to Internet email for messages of this kind.", "Token": "for"}
+{"True Label": "SCONJ", "Prediction": "ADP", "TEXT": "They offer an exceptional compensation package including a healthy salary, comprehensive benefits program, and ample room for associates to grow within the firm.", "Token": "for"}
+{"True Label": "ADJ", "Prediction": "PROPN", "TEXT": "You'll be able to use your 1-4 years of experience with Toxic Tort to complement your desire to stay with the firm.", "Token": "Toxic"}
+{"True Label": "NOUN", "Prediction": "PROPN", "TEXT": "You'll be able to use your 1-4 years of experience with Toxic Tort to complement your desire to stay with the firm.", "Token": "Tort"}
+{"True Label": "ADJ", "Prediction": "DET", "TEXT": "there will be talent and opportunity a plenty on the market soon.", "Token": "a"}
+{"True Label": "X", "Prediction": "NOUN", "TEXT": "there will be talent and opportunity a plenty on the market soon.", "Token": "plenty"}
+{"True Label": "NOUN", "Prediction": "PROPN", "TEXT": "I've got some friends at Duke and Dynegy from B-school, the Gianoucous (spelling??) brothers (John and Dimitri?from elementary school) started their own outfit a while back, and my old man is at Schlumberger and has good contacts in general (if you aren't married to a trading environment).", "Token": "B"}
+{"True Label": "NOUN", "Prediction": "PROPN", "TEXT": "I've got some friends at Duke and Dynegy from B-school, the Gianoucous (spelling??) brothers (John and Dimitri?from elementary school) started their own outfit a while back, and my old man is at Schlumberger and has good contacts in general (if you aren't married to a trading environment).", "Token": "spelling"}
+{"True Label": "ADJ", "Prediction": "NOUN", "TEXT": "I've got some friends at Duke and Dynegy from B-school, the Gianoucous (spelling??) brothers (John and Dimitri?from elementary school) started their own outfit a while back, and my old man is at Schlumberger and has good contacts in general (if you aren't married to a trading environment).", "Token": "elementary"}
+{"True Label": "ADJ", "Prediction": "VERB", "TEXT": "I've got some friends at Duke and Dynegy from B-school, the Gianoucous (spelling??) brothers (John and Dimitri?from elementary school) started their own outfit a while back, and my old man is at Schlumberger and has good contacts in general (if you aren't married to a trading environment).", "Token": "married"}
+{"True Label": "X", "Prediction": "ADJ", "TEXT": "you guys have any job opening for ex natural gas traders that made their now almost defunctc ompany over 40 million in the last two years?", "Token": "ex"}
+{"True Label": "ADJ", "Prediction": "NOUN", "TEXT": "you guys have any job opening for ex natural gas traders that made their now almost defunctc ompany over 40 million in the last two years?", "Token": "defunctc"}
+{"True Label": "PART", "Prediction": "ADV", "TEXT": "not sure how much longer ene is going to be around and i'm checking out my options!", "Token": "not"}
+{"True Label": "SCONJ", "Prediction": "ADV", "TEXT": "not sure how much longer ene is going to be around and i'm checking out my options!", "Token": "how"}
+{"True Label": "NOUN", "Prediction": "PROPN", "TEXT": "As we discussed, here is a first effort at a revised TVA offer letter.", "Token": "TVA"}
+{"True Label": "ADP", "Prediction": "VERB", "TEXT": "I drafted the Into TVA Option as a series of calls tied to the MOPA delivery term and quantity - not sure if this anything close to what you all had in mind.", "Token": "Into"}
+{"True Label": "NOUN", "Prediction": "PROPN", "TEXT": "I drafted the Into TVA Option as a series of calls tied to the MOPA delivery term and quantity - not sure if this anything close to what you all had in mind.", "Token": "MOPA"}
+{"True Label": "SCONJ", "Prediction": "ADP", "TEXT": "I drafted the Into TVA Option as a series of calls tied to the MOPA delivery term and quantity - not sure if this anything close to what you all had in mind.", "Token": "to"}
+{"True Label": "AUX", "Prediction": "VERB", "TEXT": "Please let me know what shape you all think the offer ought to take and we can revise accordingly.", "Token": "ought"}
+{"True Label": "PROPN", "Prediction": "X", "TEXT": "Mark E Haedicke", "Token": "E"}
+{"True Label": "ADJ", "Prediction": "NOUN", "TEXT": "Please use the form attached when preparing the top ten risks for your businesses.", "Token": "top"}
+{"True Label": "PROPN", "Prediction": "X", "TEXT": "Mark E Haedicke", "Token": "E"}
+{"True Label": "VERB", "Prediction": "ADJ", "TEXT": "Send the revised report by e-mail.", "Token": "revised"}
+{"True Label": "SCONJ", "Prediction": "ADP", "TEXT": "With Elizabeth's comments added to summary...", "Token": "With"}
+{"True Label": "NUM", "Prediction": "NOUN", "TEXT": "that deal is making like it wants to close and the traders scheduled a 430 call to wrap it up", "Token": "430"}
+{"True Label": "ADV", "Prediction": "PRON", "TEXT": "here is to getting back on track after thanksgiving", "Token": "here"}
+{"True Label": "AUX", "Prediction": "VERB", "TEXT": "here is to getting back on track after thanksgiving", "Token": "is"}
+{"True Label": "ADJ", "Prediction": "INTJ", "TEXT": "sorry again", "Token": "sorry"}
+{"True Label": "PROPN", "Prediction": "NOUN", "TEXT": "Attached are clean and blacklined drafts of the Enron guaranties to be made in support of EPMI's obligations under the Indian Mesa II Renewable Energy Purchase Agreement (\"PPA\") and Green Premium Sharing Agreement (\"GSPA\").?", "Token": "Mesa"}
+{"True Label": "PROPN", "Prediction": "NUM", "TEXT": "Attached are clean and blacklined drafts of the Enron guaranties to be made in support of EPMI's obligations under the Indian Mesa II Renewable Energy Purchase Agreement (\"PPA\") and Green Premium Sharing Agreement (\"GSPA\").?", "Token": "II"}
+{"True Label": "PROPN", "Prediction": "X", "TEXT": "Attached are clean and blacklined drafts of the Enron guaranties to be made in support of EPMI's obligations under the Indian Mesa II Renewable Energy Purchase Agreement (\"PPA\") and Green Premium Sharing Agreement (\"GSPA\").?", "Token": "Purchase"}
+{"True Label": "PROPN", "Prediction": "NOUN", "TEXT": "Attached are clean and blacklined drafts of the Enron guaranties to be made in support of EPMI's obligations under the Indian Mesa II Renewable Energy Purchase Agreement (\"PPA\") and Green Premium Sharing Agreement (\"GSPA\").?", "Token": "Agreement"}
+{"True Label": "PROPN", "Prediction": "NOUN", "TEXT": "Attached are clean and blacklined drafts of the Enron guaranties to be made in support of EPMI's obligations under the Indian Mesa II Renewable Energy Purchase Agreement (\"PPA\") and Green Premium Sharing Agreement (\"GSPA\").?", "Token": "PPA"}
+{"True Label": "PROPN", "Prediction": "X", "TEXT": "Attached are clean and blacklined drafts of the Enron guaranties to be made in support of EPMI's obligations under the Indian Mesa II Renewable Energy Purchase Agreement (\"PPA\") and Green Premium Sharing Agreement (\"GSPA\").?", "Token": "Premium"}
+{"True Label": "PROPN", "Prediction": "X", "TEXT": "Attached are clean and blacklined drafts of the Enron guaranties to be made in support of EPMI's obligations under the Indian Mesa II Renewable Energy Purchase Agreement (\"PPA\") and Green Premium Sharing Agreement (\"GSPA\").?", "Token": "Sharing"}
+{"True Label": "PROPN", "Prediction": "NOUN", "TEXT": "The guaranty for the PPA is blacklined against the Enron EPC Contract guaranty in favor of the banks which was granted in connection with our Cabazon Wind Power Project (the project most recently financed by EWC) and the GPSA guaranty is blacklined against the PPA guaranty.", "Token": "PPA"}
+{"True Label": "NOUN", "Prediction": "PROPN", "TEXT": "The guaranty for the PPA is blacklined against the Enron EPC Contract guaranty in favor of the banks which was granted in connection with our Cabazon Wind Power Project (the project most recently financed by EWC) and the GPSA guaranty is blacklined against the PPA guaranty.", "Token": "EPC"}
+{"True Label": "PROPN", "Prediction": "NOUN", "TEXT": "The guaranty for the PPA is blacklined against the Enron EPC Contract guaranty in favor of the banks which was granted in connection with our Cabazon Wind Power Project (the project most recently financed by EWC) and the GPSA guaranty is blacklined against the PPA guaranty.", "Token": "Project"}
+{"True Label": "PROPN", "Prediction": "NOUN", "TEXT": "The guaranty for the PPA is blacklined against the Enron EPC Contract guaranty in favor of the banks which was granted in connection with our Cabazon Wind Power Project (the project most recently financed by EWC) and the GPSA guaranty is blacklined against the PPA guaranty.", "Token": "GPSA"}
+{"True Label": "PROPN", "Prediction": "NOUN", "TEXT": "The guaranty for the PPA is blacklined against the Enron EPC Contract guaranty in favor of the banks which was granted in connection with our Cabazon Wind Power Project (the project most recently financed by EWC) and the GPSA guaranty is blacklined against the PPA guaranty.", "Token": "PPA"}
+{"True Label": "PROPN", "Prediction": "NOUN", "TEXT": "We plan to use the same basic form for the Enron guaranty that will be made in favor of EPMI with respect to the seller's obligations under the PPA.", "Token": "PPA"}
+{"True Label": "VERB", "Prediction": "ADP", "TEXT": "Please feel free to give me a call if you have any questions concerning the attached guaranties.", "Token": "concerning"}
+{"True Label": "X", "Prediction": "NOUN", "TEXT": "- PPA Guaranty.doc", "Token": "Guaranty.doc"}
+{"True Label": "X", "Prediction": "NOUN", "TEXT": "- GPSA Guaranty.doc", "Token": "Guaranty.doc"}
+{"True Label": "NOUN", "Prediction": "X", "TEXT": "- REDLINE GPSA Guaranty.doc", "Token": "REDLINE"}
+{"True Label": "X", "Prediction": "NOUN", "TEXT": "- REDLINE GPSA Guaranty.doc", "Token": "GPSA"}
+{"True Label": "X", "Prediction": "NOUN", "TEXT": "- REDLINE GPSA Guaranty.doc", "Token": "Guaranty.doc"}
+{"True Label": "X", "Prediction": "NOUN", "TEXT": "- REDLINE PPA Guaranty.doc", "Token": "PPA"}
+{"True Label": "X", "Prediction": "NOUN", "TEXT": "- REDLINE PPA Guaranty.doc", "Token": "Guaranty.doc"}
+{"True Label": "SCONJ", "Prediction": "ADP", "TEXT": "I am going to be the Senior Regulatory Counsel at ISO New England starting on April 9, 2001.", "Token": "at"}
+{"True Label": "NOUN", "Prediction": "PROPN", "TEXT": "Here is a revised draft of the CDWR risk memo.", "Token": "CDWR"}
+{"True Label": "NOUN", "Prediction": "ADV", "TEXT": "Events change everyday.", "Token": "everyday"}
+{"True Label": "ADV", "Prediction": "ADJ", "TEXT": "This morning's paper reports that a rate increase of 40% may be imposed by the CDWR as early as today and the new bond issue amount is purported to be 16 billion (rather than the 10 initially discussed)", "Token": "early"}
+{"True Label": "NOUN", "Prediction": "INTJ", "TEXT": "ps I may have to come back to work for a 615 call", "Token": "ps"}
+{"True Label": "NOUN", "Prediction": "PROPN", "TEXT": "I faxed comments to you on dash.", "Token": "dash"}
+{"True Label": "NOUN", "Prediction": "PROPN", "TEXT": "I have just checked with RAC (David Gorte) and we have a green light to go ahead with the project.", "Token": "RAC"}
+{"True Label": "ADJ", "Prediction": "NOUN", "TEXT": "I have just checked with RAC (David Gorte) and we have a green light to go ahead with the project.", "Token": "green"}
+{"True Label": "AUX", "Prediction": "VERB", "TEXT": "I shall you tomorrow to discuss the details.", "Token": "shall"}
+{"True Label": "NOUN", "Prediction": "ADJ", "TEXT": "I shall you tomorrow to discuss the details.", "Token": "tomorrow"}
+{"True Label": "PROPN", "Prediction": "NOUN", "TEXT": "Sheridan Titman Department of Finance College of Business Administration University of Texas Austin, Texas 78712-1179 512-232-2787 (phone) 512-471-5073 (fax) titman@mail.utexas.edu", "Token": "College"}
+{"True Label": "PROPN", "Prediction": "NOUN", "TEXT": "Sheridan Titman Department of Finance College of Business Administration University of Texas Austin, Texas 78712-1179 512-232-2787 (phone) 512-471-5073 (fax) titman@mail.utexas.edu", "Token": "Business"}
+{"True Label": "PROPN", "Prediction": "NOUN", "TEXT": "Sheridan Titman Department of Finance College of Business Administration University of Texas Austin, Texas 78712-1179 512-232-2787 (phone) 512-471-5073 (fax) titman@mail.utexas.edu", "Token": "Administration"}
+{"True Label": "ADP", "Prediction": "VERB", "TEXT": "Per our conversation yesterday...", "Token": "Per"}
+{"True Label": "ADV", "Prediction": "ADJ", "TEXT": "Further to your call attached is a presentation I gave at the Canadian Risk Managers Conference in Edmonton in the fall of 2000.", "Token": "Further"}
+{"True Label": "PROPN", "Prediction": "NOUN", "TEXT": "Further to your call attached is a presentation I gave at the Canadian Risk Managers Conference in Edmonton in the fall of 2000.", "Token": "Risk"}
+{"True Label": "PROPN", "Prediction": "NOUN", "TEXT": "Further to your call attached is a presentation I gave at the Canadian Risk Managers Conference in Edmonton in the fall of 2000.", "Token": "Managers"}
+{"True Label": "NOUN", "Prediction": "PROPN", "TEXT": "- Cfoforum.ppt", "Token": "Cfoforum.ppt"}
+{"True Label": "PUNCT", "Prediction": "SYM", "TEXT": "A quick question: we haven't received your invoice for the last few model / paper reviews.", "Token": "/"}
+{"True Label": "PUNCT", "Prediction": "SYM", "TEXT": "Vince/ Taiichi", "Token": "/"}
+{"True Label": "NOUN", "Prediction": "X", "TEXT": "Darrell Duffie mail GSB Stanford CA 94305-5015 USA phone 650 723 1976 fax 650 725 7979 email duffie@stanford.edu web http://www.stanford.edu/~duffie/", "Token": "web"}
+{"True Label": "X", "Prediction": "NOUN", "TEXT": "- Paper4.pdf", "Token": "Paper4.pdf"}
+{"True Label": "NOUN", "Prediction": "PROPN", "TEXT": "Even if we cannot help you here in Enron, he may be able to put you in touch with other CV groups in town.", "Token": "CV"}
+{"True Label": "PROPN", "Prediction": "X", "TEXT": "Vince J Kaminski", "Token": "J"}
+{"True Label": "ADV", "Prediction": "SCONJ", "TEXT": "The design of the model and its potential economics could be key to how worthy the effort might be.", "Token": "how"}
+{"True Label": "ADP", "Prediction": "SCONJ", "TEXT": "Enron could be an ideal environment from which to the concept enhancement through to commercialization could be successfully accomplished.", "Token": "to"}
+{"True Label": "ADP", "Prediction": "ADV", "TEXT": "Enron could be an ideal environment from which to the concept enhancement through to commercialization could be successfully accomplished.", "Token": "through"}
+{"True Label": "ADJ", "Prediction": "ADV", "TEXT": "Please confidentially share matters as you think best and advise me of the interest generated.", "Token": "best"}
+{"True Label": "NOUN", "Prediction": "PROPN", "TEXT": "What's going on with the UBS weather position?", "Token": "UBS"}
+{"True Label": "PROPN", "Prediction": "NOUN", "TEXT": "WT Cal has been added.", "Token": "WT"}
+{"True Label": "PROPN", "Prediction": "NOUN", "TEXT": "WT Cal has been added.", "Token": "Cal"}
+{"True Label": "NOUN", "Prediction": "NUM", "TEXT": "EY4096.1 PERFORMANCE 01-Feb-02 P 6,363,217 -$ 250,393", "Token": "EY4096.1"}
+{"True Label": "NOUN", "Prediction": "X", "TEXT": "EY4096.1 PERFORMANCE 01-Feb-02 P 6,363,217 -$ 250,393", "Token": "01-Feb-02"}
+{"True Label": "NOUN", "Prediction": "SYM", "TEXT": "EY4096.1 PERFORMANCE 01-Feb-02 P 6,363,217 -$ 250,393", "Token": "P"}
+{"True Label": "NOUN", "Prediction": "NUM", "TEXT": "EY4096.3 PERFORMANCE 01-Feb-02 P 202,989 $ 195,610", "Token": "EY4096.3"}
+{"True Label": "NOUN", "Prediction": "X", "TEXT": "EY4096.3 PERFORMANCE 01-Feb-02 P 202,989 $ 195,610", "Token": "01-Feb-02"}
+{"True Label": "NOUN", "Prediction": "AUX", "TEXT": "EY4096.3 PERFORMANCE 01-Feb-02 P 202,989 $ 195,610", "Token": "P"}
+{"True Label": "NOUN", "Prediction": "NUM", "TEXT": "EY4096.4 PERFORMANCE 01-Feb-02 F 0 $ 31,180", "Token": "EY4096.4"}
+{"True Label": "NOUN", "Prediction": "X", "TEXT": "EY4096.4 PERFORMANCE 01-Feb-02 F 0 $ 31,180", "Token": "01-Feb-02"}
+{"True Label": "PROPN", "Prediction": "NOUN", "TEXT": "EY4096.4 PERFORMANCE 01-Feb-02 F 0 $ 31,180", "Token": "F"}
+{"True Label": "NOUN", "Prediction": "NUM", "TEXT": "EY4096.7 PERFORMANCE 01-Feb-02 P -6,363,217 -$ 55,678", "Token": "EY4096.7"}
+{"True Label": "NOUN", "Prediction": "X", "TEXT": "EY4096.7 PERFORMANCE 01-Feb-02 P -6,363,217 -$ 55,678", "Token": "01-Feb-02"}
+{"True Label": "NOUN", "Prediction": "NUM", "TEXT": "EY4096.7 PERFORMANCE 01-Feb-02 P -6,363,217 -$ 55,678", "Token": "P"}
+{"True Label": "SYM", "Prediction": "PUNCT", "TEXT": "EY4096.7 PERFORMANCE 01-Feb-02 P -6,363,217 -$ 55,678", "Token": "-"}
+{"True Label": "SYM", "Prediction": "PUNCT", "TEXT": "EY4096.7 PERFORMANCE 01-Feb-02 P -6,363,217 -$ 55,678", "Token": "-"}
+{"True Label": "NOUN", "Prediction": "NUM", "TEXT": "EY4106.6 PERFORMANCE 01-Feb-02 P -1,993,045 -$ 32,387", "Token": "EY4106.6"}
+{"True Label": "NOUN", "Prediction": "X", "TEXT": "EY4106.6 PERFORMANCE 01-Feb-02 P -1,993,045 -$ 32,387", "Token": "01-Feb-02"}
+{"True Label": "PROPN", "Prediction": "ADJ", "TEXT": "EY4106.6 PERFORMANCE 01-Feb-02 P -1,993,045 -$ 32,387", "Token": "P"}
+{"True Label": "NOUN", "Prediction": "NUM", "TEXT": "EY4106.7 PERFORMANCE 01-Feb-02 P 1,993,045 -$ 43,548", "Token": "EY4106.7"}
+{"True Label": "NOUN", "Prediction": "X", "TEXT": "EY4106.7 PERFORMANCE 01-Feb-02 P 1,993,045 -$ 43,548", "Token": "01-Feb-02"}
+{"True Label": "NOUN", "Prediction": "SYM", "TEXT": "EY4106.7 PERFORMANCE 01-Feb-02 P 1,993,045 -$ 43,548", "Token": "P"}
+{"True Label": "SYM", "Prediction": "PUNCT", "TEXT": "EY4106.7 PERFORMANCE 01-Feb-02 P 1,993,045 -$ 43,548", "Token": "-"}
+{"True Label": "NOUN", "Prediction": "NUM", "TEXT": "EY4106.9 PERFORMANCE 01-Feb-02 P 27,886 $ 27,361", "Token": "EY4106.9"}
+{"True Label": "NOUN", "Prediction": "X", "TEXT": "EY4106.9 PERFORMANCE 01-Feb-02 P 27,886 $ 27,361", "Token": "01-Feb-02"}
+{"True Label": "NOUN", "Prediction": "SYM", "TEXT": "EY4106.9 PERFORMANCE 01-Feb-02 P 27,886 $ 27,361", "Token": "P"}
+{"True Label": "NOUN", "Prediction": "X", "TEXT": "EY4108.E PERFORMANCE 01-Feb-02 P 12,514,373 -$ 265,932", "Token": "01-Feb-02"}
+{"True Label": "NOUN", "Prediction": "SYM", "TEXT": "EY4108.E PERFORMANCE 01-Feb-02 P 12,514,373 -$ 265,932", "Token": "P"}
+{"True Label": "PUNCT", "Prediction": "SYM", "TEXT": "EY4108.E PERFORMANCE 01-Feb-02 P 12,514,373 -$ 265,932", "Token": "-"}
+{"True Label": "NOUN", "Prediction": "X", "TEXT": "EY4108.F PERFORMANCE 01-Feb-02 P 112,610 $ 110,555", "Token": "01-Feb-02"}
+{"True Label": "NOUN", "Prediction": "AUX", "TEXT": "EY4108.F PERFORMANCE 01-Feb-02 P 112,610 $ 110,555", "Token": "P"}
+{"True Label": "NOUN", "Prediction": "ADJ", "TEXT": "EY4108.H PERFORMANCE 01-Feb-02 P -2,239,879 -$ 36,398", "Token": "PERFORMANCE"}
+{"True Label": "NOUN", "Prediction": "X", "TEXT": "EY4108.H PERFORMANCE 01-Feb-02 P -2,239,879 -$ 36,398", "Token": "01-Feb-02"}
+{"True Label": "NOUN", "Prediction": "NUM", "TEXT": "EY4108.H PERFORMANCE 01-Feb-02 P -2,239,879 -$ 36,398", "Token": "P"}
+{"True Label": "NOUN", "Prediction": "X", "TEXT": "EY4108.I PERFORMANCE 01-Feb-02 P -10,274,494 -$ 166,960", "Token": "01-Feb-02"}
+{"True Label": "NOUN", "Prediction": "ADJ", "TEXT": "EY4108.I PERFORMANCE 01-Feb-02 P -10,274,494 -$ 166,960", "Token": "P"}
+{"True Label": "NOUN", "Prediction": "PROPN", "TEXT": "Please start using the ENA DPR 0102 file rather than the EWS DPR 2002 file to send to Chris.", "Token": "ENA"}
+{"True Label": "NOUN", "Prediction": "PROPN", "TEXT": "Please start using the ENA DPR 0102 file rather than the EWS DPR 2002 file to send to Chris.", "Token": "DPR"}
+{"True Label": "NOUN", "Prediction": "PROPN", "TEXT": "Please start using the ENA DPR 0102 file rather than the EWS DPR 2002 file to send to Chris.", "Token": "EWS"}
+{"True Label": "NOUN", "Prediction": "PROPN", "TEXT": "Please start using the ENA DPR 0102 file rather than the EWS DPR 2002 file to send to Chris.", "Token": "DPR"}
+{"True Label": "NOUN", "Prediction": "PROPN", "TEXT": "The positions needed to be divided to reflect BCF's.", "Token": "BCF"}
+{"True Label": "VERB", "Prediction": "ADJ", "TEXT": "While our established schedules of Tuesday and Friday DPR's would have us reporting tomorrow's activity on Monday, we will change that for month end.", "Token": "established"}
+{"True Label": "SCONJ", "Prediction": "ADV", "TEXT": "Starting in February, you will be able to export the data, as opposed to using the spreadsheets.", "Token": "as"}
+{"True Label": "ADV", "Prediction": "ADP", "TEXT": "After friday, I will no longer have access to the estate, so if you could shoot this off over night so I could have something in the morning to work with I would appreciate it.", "Token": "over"}
+{"True Label": "X", "Prediction": "NOUN", "TEXT": "After friday, I will no longer have access to the estate, so if you could shoot this off over night so I could have something in the morning to work with I would appreciate it.", "Token": "night"}
+{"True Label": "ADJ", "Prediction": "NOUN", "TEXT": "Is good or bad?", "Token": "bad"}
+{"True Label": "NOUN", "Prediction": "VERB", "TEXT": "pairing up of harry and ginny is cool", "Token": "pairing"}
+{"True Label": "NOUN", "Prediction": "ADP", "TEXT": "pairing up of harry and ginny is cool", "Token": "up"}
+{"True Label": "PROPN", "Prediction": "ADJ", "TEXT": "pairing up of harry and ginny is cool", "Token": "ginny"}
+{"True Label": "VERB", "Prediction": "ADJ", "TEXT": "An orphaned, two-month old African elephant named Olly received an extremely uplifting Christmas present this year: an airplane ride just for him, courtesy of the International Fund for Animal Welfare and their friends 'The Bateleurs'.", "Token": "orphaned"}
+{"True Label": "PROPN", "Prediction": "NOUN", "TEXT": "An orphaned, two-month old African elephant named Olly received an extremely uplifting Christmas present this year: an airplane ride just for him, courtesy of the International Fund for Animal Welfare and their friends 'The Bateleurs'.", "Token": "Christmas"}
+{"True Label": "NOUN", "Prediction": "ADP", "TEXT": "An orphaned, two-month old African elephant named Olly received an extremely uplifting Christmas present this year: an airplane ride just for him, courtesy of the International Fund for Animal Welfare and their friends 'The Bateleurs'.", "Token": "courtesy"}
+{"True Label": "PROPN", "Prediction": "ADJ", "TEXT": "An orphaned, two-month old African elephant named Olly received an extremely uplifting Christmas present this year: an airplane ride just for him, courtesy of the International Fund for Animal Welfare and their friends 'The Bateleurs'.", "Token": "Animal"}
+{"True Label": "PROPN", "Prediction": "NOUN", "TEXT": "Animal News Center Webmaster", "Token": "Center"}
+{"True Label": "NOUN", "Prediction": "PROPN", "TEXT": "We have started a new forum for an interactive and absorbing discussion on Astrology & Palmistry and everything in between including Gemology, Feng Shui/Vaastu Shastra.", "Token": "Palmistry"}
+{"True Label": "ADP", "Prediction": "X", "TEXT": "We have started a new forum for an interactive and absorbing discussion on Astrology & Palmistry and everything in between including Gemology, Feng Shui/Vaastu Shastra.", "Token": "between"}
+{"True Label": "NOUN", "Prediction": "PROPN", "TEXT": "We have started a new forum for an interactive and absorbing discussion on Astrology & Palmistry and everything in between including Gemology, Feng Shui/Vaastu Shastra.", "Token": "Feng"}
+{"True Label": "NOUN", "Prediction": "PROPN", "TEXT": "We have started a new forum for an interactive and absorbing discussion on Astrology & Palmistry and everything in between including Gemology, Feng Shui/Vaastu Shastra.", "Token": "Shui"}
+{"True Label": "NOUN", "Prediction": "PROPN", "TEXT": "We have started a new forum for an interactive and absorbing discussion on Astrology & Palmistry and everything in between including Gemology, Feng Shui/Vaastu Shastra.", "Token": "Vaastu"}
+{"True Label": "NOUN", "Prediction": "PROPN", "TEXT": "We have started a new forum for an interactive and absorbing discussion on Astrology & Palmistry and everything in between including Gemology, Feng Shui/Vaastu Shastra.", "Token": "Shastra"}
+{"True Label": "ADP", "Prediction": "PART", "TEXT": "Play your CD's, 8-tracks, reel to reels, cassettes, vinyl 33/45's, and shellac 78's through this little integrated amp, you'll get a big eye opener !", "Token": "to"}
+{"True Label": "NUM", "Prediction": "NOUN", "TEXT": "Play your CD's, 8-tracks, reel to reels, cassettes, vinyl 33/45's, and shellac 78's through this little integrated amp, you'll get a big eye opener !", "Token": "33"}
+{"True Label": "SYM", "Prediction": "PUNCT", "TEXT": "Play your CD's, 8-tracks, reel to reels, cassettes, vinyl 33/45's, and shellac 78's through this little integrated amp, you'll get a big eye opener !", "Token": "/"}
+{"True Label": "ADJ", "Prediction": "VERB", "TEXT": "Play your CD's, 8-tracks, reel to reels, cassettes, vinyl 33/45's, and shellac 78's through this little integrated amp, you'll get a big eye opener !", "Token": "integrated"}
+{"True Label": "ADV", "Prediction": "DET", "TEXT": "complete with original Magnavox tubes- all tubes have been tested they are all good- stereo amp", "Token": "all"}
+{"True Label": "ADJ", "Prediction": "PROPN", "TEXT": "When Baptist Pastor Stephen Jones talks about what makes for a happy marriage with Janice, his wife of 35 years, one special ingredient might surprise you: Double-dating with coupled friends who happen to be gay.", "Token": "Baptist"}
+{"True Label": "NOUN", "Prediction": "PROPN", "TEXT": "When Baptist Pastor Stephen Jones talks about what makes for a happy marriage with Janice, his wife of 35 years, one special ingredient might surprise you: Double-dating with coupled friends who happen to be gay.", "Token": "Pastor"}
+{"True Label": "ADJ", "Prediction": "NOUN", "TEXT": "When Baptist Pastor Stephen Jones talks about what makes for a happy marriage with Janice, his wife of 35 years, one special ingredient might surprise you: Double-dating with coupled friends who happen to be gay.", "Token": "Double"}
+{"True Label": "VERB", "Prediction": "PROPN", "TEXT": "Twinkle Twinkle lazy star Kitna soyega uthja yaar, up above the world so high, sun has risen in the sky, uthke jaldi pee le chai, then call me up and say \"HI\"", "Token": "Twinkle"}
+{"True Label": "VERB", "Prediction": "PROPN", "TEXT": "Twinkle Twinkle lazy star Kitna soyega uthja yaar, up above the world so high, sun has risen in the sky, uthke jaldi pee le chai, then call me up and say \"HI\"", "Token": "Twinkle"}
+{"True Label": "ADJ", "Prediction": "PROPN", "TEXT": "Twinkle Twinkle lazy star Kitna soyega uthja yaar, up above the world so high, sun has risen in the sky, uthke jaldi pee le chai, then call me up and say \"HI\"", "Token": "lazy"}
+{"True Label": "X", "Prediction": "PROPN", "TEXT": "Twinkle Twinkle lazy star Kitna soyega uthja yaar, up above the world so high, sun has risen in the sky, uthke jaldi pee le chai, then call me up and say \"HI\"", "Token": "Kitna"}
+{"True Label": "X", "Prediction": "VERB", "TEXT": "Twinkle Twinkle lazy star Kitna soyega uthja yaar, up above the world so high, sun has risen in the sky, uthke jaldi pee le chai, then call me up and say \"HI\"", "Token": "soyega"}
+{"True Label": "X", "Prediction": "ADJ", "TEXT": "Twinkle Twinkle lazy star Kitna soyega uthja yaar, up above the world so high, sun has risen in the sky, uthke jaldi pee le chai, then call me up and say \"HI\"", "Token": "uthja"}
+{"True Label": "X", "Prediction": "NOUN", "TEXT": "Twinkle Twinkle lazy star Kitna soyega uthja yaar, up above the world so high, sun has risen in the sky, uthke jaldi pee le chai, then call me up and say \"HI\"", "Token": "yaar"}
+{"True Label": "PUNCT", "Prediction": "INTJ", "TEXT": "Twinkle Twinkle lazy star Kitna soyega uthja yaar, up above the world so high, sun has risen in the sky, uthke jaldi pee le chai, then call me up and say \"HI\"", "Token": ","}
+{"True Label": "ADV", "Prediction": "PUNCT", "TEXT": "Twinkle Twinkle lazy star Kitna soyega uthja yaar, up above the world so high, sun has risen in the sky, uthke jaldi pee le chai, then call me up and say \"HI\"", "Token": "up"}
+{"True Label": "ADP", "Prediction": "ADV", "TEXT": "Twinkle Twinkle lazy star Kitna soyega uthja yaar, up above the world so high, sun has risen in the sky, uthke jaldi pee le chai, then call me up and say \"HI\"", "Token": "above"}
+{"True Label": "DET", "Prediction": "ADP", "TEXT": "Twinkle Twinkle lazy star Kitna soyega uthja yaar, up above the world so high, sun has risen in the sky, uthke jaldi pee le chai, then call me up and say \"HI\"", "Token": "the"}
+{"True Label": "NOUN", "Prediction": "DET", "TEXT": "Twinkle Twinkle lazy star Kitna soyega uthja yaar, up above the world so high, sun has risen in the sky, uthke jaldi pee le chai, then call me up and say \"HI\"", "Token": "world"}
+{"True Label": "ADV", "Prediction": "NOUN", "TEXT": "Twinkle Twinkle lazy star Kitna soyega uthja yaar, up above the world so high, sun has risen in the sky, uthke jaldi pee le chai, then call me up and say \"HI\"", "Token": "so"}
+{"True Label": "PUNCT", "Prediction": "ADV", "TEXT": "Twinkle Twinkle lazy star Kitna soyega uthja yaar, up above the world so high, sun has risen in the sky, uthke jaldi pee le chai, then call me up and say \"HI\"", "Token": ","}
+{"True Label": "NOUN", "Prediction": "PUNCT", "TEXT": "Twinkle Twinkle lazy star Kitna soyega uthja yaar, up above the world so high, sun has risen in the sky, uthke jaldi pee le chai, then call me up and say \"HI\"", "Token": "sun"}
+{"True Label": "AUX", "Prediction": "NOUN", "TEXT": "Twinkle Twinkle lazy star Kitna soyega uthja yaar, up above the world so high, sun has risen in the sky, uthke jaldi pee le chai, then call me up and say \"HI\"", "Token": "has"}
+{"True Label": "VERB", "Prediction": "AUX", "TEXT": "Twinkle Twinkle lazy star Kitna soyega uthja yaar, up above the world so high, sun has risen in the sky, uthke jaldi pee le chai, then call me up and say \"HI\"", "Token": "risen"}
+{"True Label": "ADP", "Prediction": "VERB", "TEXT": "Twinkle Twinkle lazy star Kitna soyega uthja yaar, up above the world so high, sun has risen in the sky, uthke jaldi pee le chai, then call me up and say \"HI\"", "Token": "in"}
+{"True Label": "DET", "Prediction": "ADP", "TEXT": "Twinkle Twinkle lazy star Kitna soyega uthja yaar, up above the world so high, sun has risen in the sky, uthke jaldi pee le chai, then call me up and say \"HI\"", "Token": "the"}
+{"True Label": "NOUN", "Prediction": "DET", "TEXT": "Twinkle Twinkle lazy star Kitna soyega uthja yaar, up above the world so high, sun has risen in the sky, uthke jaldi pee le chai, then call me up and say \"HI\"", "Token": "sky"}
+{"True Label": "PUNCT", "Prediction": "NOUN", "TEXT": "Twinkle Twinkle lazy star Kitna soyega uthja yaar, up above the world so high, sun has risen in the sky, uthke jaldi pee le chai, then call me up and say \"HI\"", "Token": ","}
+{"True Label": "X", "Prediction": "PUNCT", "TEXT": "Twinkle Twinkle lazy star Kitna soyega uthja yaar, up above the world so high, sun has risen in the sky, uthke jaldi pee le chai, then call me up and say \"HI\"", "Token": "uthke"}
+{"True Label": "X", "Prediction": "NOUN", "TEXT": "Twinkle Twinkle lazy star Kitna soyega uthja yaar, up above the world so high, sun has risen in the sky, uthke jaldi pee le chai, then call me up and say \"HI\"", "Token": "pee"}
+{"True Label": "X", "Prediction": "INTJ", "TEXT": "Twinkle Twinkle lazy star Kitna soyega uthja yaar, up above the world so high, sun has risen in the sky, uthke jaldi pee le chai, then call me up and say \"HI\"", "Token": "chai"}
+{"True Label": "PUNCT", "Prediction": "NOUN", "TEXT": "Twinkle Twinkle lazy star Kitna soyega uthja yaar, up above the world so high, sun has risen in the sky, uthke jaldi pee le chai, then call me up and say \"HI\"", "Token": ","}
+{"True Label": "ADV", "Prediction": "X", "TEXT": "Twinkle Twinkle lazy star Kitna soyega uthja yaar, up above the world so high, sun has risen in the sky, uthke jaldi pee le chai, then call me up and say \"HI\"", "Token": "then"}
+{"True Label": "VERB", "Prediction": "PUNCT", "TEXT": "Twinkle Twinkle lazy star Kitna soyega uthja yaar, up above the world so high, sun has risen in the sky, uthke jaldi pee le chai, then call me up and say \"HI\"", "Token": "call"}
+{"True Label": "PRON", "Prediction": "INTJ", "TEXT": "Twinkle Twinkle lazy star Kitna soyega uthja yaar, up above the world so high, sun has risen in the sky, uthke jaldi pee le chai, then call me up and say \"HI\"", "Token": "me"}
+{"True Label": "ADP", "Prediction": "VERB", "TEXT": "Twinkle Twinkle lazy star Kitna soyega uthja yaar, up above the world so high, sun has risen in the sky, uthke jaldi pee le chai, then call me up and say \"HI\"", "Token": "up"}
+{"True Label": "CCONJ", "Prediction": "PRON", "TEXT": "Twinkle Twinkle lazy star Kitna soyega uthja yaar, up above the world so high, sun has risen in the sky, uthke jaldi pee le chai, then call me up and say \"HI\"", "Token": "and"}
+{"True Label": "VERB", "Prediction": "ADP", "TEXT": "Twinkle Twinkle lazy star Kitna soyega uthja yaar, up above the world so high, sun has risen in the sky, uthke jaldi pee le chai, then call me up and say \"HI\"", "Token": "say"}
+{"True Label": "PUNCT", "Prediction": "CCONJ", "TEXT": "Twinkle Twinkle lazy star Kitna soyega uthja yaar, up above the world so high, sun has risen in the sky, uthke jaldi pee le chai, then call me up and say \"HI\"", "Token": "\""}
+{"True Label": "INTJ", "Prediction": "VERB", "TEXT": "Twinkle Twinkle lazy star Kitna soyega uthja yaar, up above the world so high, sun has risen in the sky, uthke jaldi pee le chai, then call me up and say \"HI\"", "Token": "HI"}
+{"True Label": "NUM", "Prediction": "NOUN", "TEXT": "81K Download", "Token": "K"}
+{"True Label": "NOUN", "Prediction": "PROPN", "TEXT": "81K Download", "Token": "Download"}
+{"True Label": "ADJ", "Prediction": "VERB", "TEXT": "The story had brillant battle scenes, lovable heroes and villians, a compelling story line, and it left me dying for the next part of the series:) go to taleofterra.com to learn more aboout it", "Token": "dying"}
+{"True Label": "SYM", "Prediction": "PUNCT", "TEXT": "The story had brillant battle scenes, lovable heroes and villians, a compelling story line, and it left me dying for the next part of the series:) go to taleofterra.com to learn more aboout it", "Token": ":)"}
+{"True Label": "VERB", "Prediction": "NOUN", "TEXT": "Followup-To: alt.animals", "Token": "Followup"}
+{"True Label": "PRON", "Prediction": "PROPN", "TEXT": "You will always find fascinating links at: Extreme Web Surfs http://extremewebsurfs.blogspot.com/ (nice urban wildlife post today) & Me and the Web http://maartenvt.blogspot.com/ Arts, History,Animals, Music,Games ,Politics,Technology, Fun and more!", "Token": "Me"}
+{"True Label": "CCONJ", "Prediction": "X", "TEXT": "You will always find fascinating links at: Extreme Web Surfs http://extremewebsurfs.blogspot.com/ (nice urban wildlife post today) & Me and the Web http://maartenvt.blogspot.com/ Arts, History,Animals, Music,Games ,Politics,Technology, Fun and more!", "Token": "and"}
+{"True Label": "ADJ", "Prediction": "NOUN", "TEXT": "WE HAVE A DATE FOR THE RELEASE OF RAGNAROK ONLINE 2 (beta anyway)September 16-18, this was announced by Gravity CEO Kim Jung-Ryool on either 16th or 17th of july and as i don't want to take someone's credit's i got it here^^GameSpot", "Token": "ONLINE"}
+{"True Label": "PROPN", "Prediction": "X", "TEXT": "WE HAVE A DATE FOR THE RELEASE OF RAGNAROK ONLINE 2 (beta anyway)September 16-18, this was announced by Gravity CEO Kim Jung-Ryool on either 16th or 17th of july and as i don't want to take someone's credit's i got it here^^GameSpot", "Token": "2"}
+{"True Label": "ADV", "Prediction": "NOUN", "TEXT": "WE HAVE A DATE FOR THE RELEASE OF RAGNAROK ONLINE 2 (beta anyway)September 16-18, this was announced by Gravity CEO Kim Jung-Ryool on either 16th or 17th of july and as i don't want to take someone's credit's i got it here^^GameSpot", "Token": "anyway"}
+{"True Label": "CCONJ", "Prediction": "DET", "TEXT": "WE HAVE A DATE FOR THE RELEASE OF RAGNAROK ONLINE 2 (beta anyway)September 16-18, this was announced by Gravity CEO Kim Jung-Ryool on either 16th or 17th of july and as i don't want to take someone's credit's i got it here^^GameSpot", "Token": "either"}
+{"True Label": "VERB", "Prediction": "PROPN", "TEXT": "Reply", "Token": "Reply"}
+{"True Label": "PUNCT", "Prediction": "X", "TEXT": "Email: \"Ian\"<ian.gilb...@btinternet.com>", "Token": ">"}
+{"True Label": "NOUN", "Prediction": "ADJ", "TEXT": "We have updated our site to include a LOST and FOUND page and you can now join our branch and make a secure on-line donation to the charity.", "Token": "LOST"}
+{"True Label": "NOUN", "Prediction": "ADJ", "TEXT": "We have updated our site to include a LOST and FOUND page and you can now join our branch and make a secure on-line donation to the charity.", "Token": "FOUND"}
+{"True Label": "NOUN", "Prediction": "VERB", "TEXT": "PS - we also have more cats coming in for re-homing see our 'Homes Wanted' page", "Token": "re-homing"}
+{"True Label": "VERB", "Prediction": "ADJ", "TEXT": "Police in the Indian capital Delhi say they have arrested the suspected co-ordinator and financier of last month's deadly bomb blasts in the city.", "Token": "suspected"}
+{"True Label": "PROPN", "Prediction": "NOUN", "TEXT": "The India Diaries", "Token": "Diaries"}
+{"True Label": "PROPN", "Prediction": "NOUN", "TEXT": "I like the way Otto Jespersen (in 'Language: Its Nature, Development and Origin') aptly summarised the nature of language changes by comparing it with one of the theories of the Manchester School of Economics:", "Token": "Language"}
+{"True Label": "PROPN", "Prediction": "NOUN", "TEXT": "I like the way Otto Jespersen (in 'Language: Its Nature, Development and Origin') aptly summarised the nature of language changes by comparing it with one of the theories of the Manchester School of Economics:", "Token": "Nature"}
+{"True Label": "PROPN", "Prediction": "NOUN", "TEXT": "I like the way Otto Jespersen (in 'Language: Its Nature, Development and Origin') aptly summarised the nature of language changes by comparing it with one of the theories of the Manchester School of Economics:", "Token": "Development"}
+{"True Label": "PROPN", "Prediction": "NOUN", "TEXT": "I like the way Otto Jespersen (in 'Language: Its Nature, Development and Origin') aptly summarised the nature of language changes by comparing it with one of the theories of the Manchester School of Economics:", "Token": "Origin"}
+{"True Label": "CCONJ", "Prediction": "SCONJ", "TEXT": "'Everything is for the best in the best of all possible worlds if only no artificial hindrances are put in the way of free exchange, for demand and supply will regulate everything better than any Government would be able to.'", "Token": "for"}
+{"True Label": "PUNCT", "Prediction": "SYM", "TEXT": "So be sure to get your pet's memorial on the site and if you have a charity / rescue, make sure it is listed on their database so you can receive some of the profits from the site.", "Token": "/"}
+{"True Label": "ADJ", "Prediction": "NOUN", "TEXT": "Inhibitory Systems Control the Pattern of Activity in the Cortex", "Token": "Inhibitory"}
+{"True Label": "ADJ", "Prediction": "NOUN", "TEXT": "\"Inhibitory systems are essential for controlling the pattern of activity in the cortex, which has important implications for the mechanisms of cortical operation, according to a Yale School of Medicine study in Neuron....", "Token": "Inhibitory"}
+{"True Label": "DET", "Prediction": "PRON", "TEXT": "The findings demonstrate the inhibitory network is central to controlling not only the amplitude, extent and duration of activation of recurrent excitatory cortical networks, but also the precise timing of action potentials, and, thus, network synchronization...\"", "Token": "The"}
+{"True Label": "PROPN", "Prediction": "NOUN", "TEXT": "Posted by Anthony Beavers to Cognitive Science News at 8/28/2005 07:18:20 AM", "Token": "News"}
+{"True Label": "PROPN", "Prediction": "X", "TEXT": "Email: \"engin i. erdem\"<erdemen...@gmail.com>", "Token": "engin"}
+{"True Label": "PROPN", "Prediction": "X", "TEXT": "Email: \"engin i. erdem\"<erdemen...@gmail.com>", "Token": "i."}
+{"True Label": "PROPN", "Prediction": "X", "TEXT": "Email: \"engin i. erdem\"<erdemen...@gmail.com>", "Token": "erdem"}
+{"True Label": "NOUN", "Prediction": "PROPN", "TEXT": "*Worldwatch Projects Catastrophe Will Be Most Costly Weather-Related Disaster in History*", "Token": "Weather"}
+{"True Label": "ADJ", "Prediction": "NOUN", "TEXT": "*Worldwatch Projects Catastrophe Will Be Most Costly Weather-Related Disaster in History*", "Token": "Related"}
+{"True Label": "PROPN", "Prediction": "ADJ", "TEXT": "According to many scientists, the early results of global warming\u201490 degree Fahrenheit water temperatures in the Gulf and rising sea levels\u2014may have exacerbated the destructive power of Katrina.", "Token": "Fahrenheit"}
+{"True Label": "NOUN", "Prediction": "PROPN", "TEXT": "According to many scientists, the early results of global warming\u201490 degree Fahrenheit water temperatures in the Gulf and rising sea levels\u2014may have exacerbated the destructive power of Katrina.", "Token": "Gulf"}
+{"True Label": "PROPN", "Prediction": "X", "TEXT": "Email: n3td3v <xploita...@gmail.com>", "Token": "n3td3v"}
+{"True Label": "PROPN", "Prediction": "X", "TEXT": "n3td3v saw this story on BBC News Online and thought you should see it.", "Token": "n3td3v"}
+{"True Label": "PROPN", "Prediction": "NOUN", "TEXT": "** BBC Daily E-mail **", "Token": "E-mail"}
+{"True Label": "ADV", "Prediction": "DET", "TEXT": "Choose the news and sport headlines you want - when you want them, all in one daily e-mail", "Token": "all"}
+{"True Label": "NOUN", "Prediction": "PROPN", "TEXT": "If you do not wish to receive such e-mails in the future or want to know more about the BBC's Email a Friend service, please read our frequently asked questions.", "Token": "Friend"}
+{"True Label": "NOUN", "Prediction": "VERB", "TEXT": "The talk of the day besides a more level playing field with China was North Korea.", "Token": "playing"}
+{"True Label": "PROPN", "Prediction": "X", "TEXT": "REUTERS/Jason Reed", "Token": "REUTERS"}
+{"True Label": "PROPN", "Prediction": "NOUN", "TEXT": "REUTERS/Jason Reed", "Token": "Reed"}
+{"True Label": "ADJ", "Prediction": "NOUN", "TEXT": "U.S. President George W. Bush shakes hands with Chinese President Hu Jintao in a bilateral meeting in Santiago.", "Token": "bilateral"}
+{"True Label": "ADJ", "Prediction": "PROPN", "TEXT": "Bush is in Santiago for the annual Asia-Pacific Economic Cooperation (APEC) leaders meeting.", "Token": "Economic"}
+{"True Label": "ADV", "Prediction": "PART", "TEXT": "Hopefully President Bush can accomplish these goals which will not only help strengthen our Chinese allies, but will also help fight the war on terror.", "Token": "not"}
+{"True Label": "ADJ", "Prediction": "VERB", "TEXT": "I have Chronic Lyme disease, so I'm stuck at home.", "Token": "stuck"}
+{"True Label": "ADP", "Prediction": "ADV", "TEXT": "Along with an area on the page for those to join the mailing list.", "Token": "Along"}
+{"True Label": "ADJ", "Prediction": "PROPN", "TEXT": "http://www.myshutter.com Before becoming disabled, I was an AVID amateur photographer.. come and visit and sign our guestbook", "Token": "AVID"}
+{"True Label": "NOUN", "Prediction": "ADJ", "TEXT": "http://www.myshutter.com Before becoming disabled, I was an AVID amateur photographer.. come and visit and sign our guestbook", "Token": "amateur"}
+{"True Label": "NUM", "Prediction": "X", "TEXT": "http://www.newsfeeds.com - The #1 Newsgroup Service in the World!", "Token": "1"}
+{"True Label": "NOUN", "Prediction": "PROPN", "TEXT": "http://www.newsfeeds.com - The #1 Newsgroup Service in the World!", "Token": "Newsgroup"}
+{"True Label": "NOUN", "Prediction": "PROPN", "TEXT": "http://www.newsfeeds.com - The #1 Newsgroup Service in the World!", "Token": "World"}
+{"True Label": "ADV", "Prediction": "ADP", "TEXT": "-----== Over 100,000 Newsgroups - 19 Different Servers! =-----", "Token": "Over"}
+{"True Label": "VERB", "Prediction": "ADJ", "TEXT": "Handcrafted Furry Animals Wholesale, Call for a Catalog NOW!", "Token": "Handcrafted"}
+{"True Label": "NOUN", "Prediction": "PROPN", "TEXT": "Handcrafted Furry Animals Wholesale, Call for a Catalog NOW!", "Token": "Animals"}
+{"True Label": "ADV", "Prediction": "ADJ", "TEXT": "Handcrafted Furry Animals Wholesale, Call for a Catalog NOW!", "Token": "Wholesale"}
+{"True Label": "ADJ", "Prediction": "ADP", "TEXT": "has life like animal wholesale figurines made from rabbit and goat fur, feathers and sheeps wool.", "Token": "like"}
+{"True Label": "ADJ", "Prediction": "NOUN", "TEXT": "has life like animal wholesale figurines made from rabbit and goat fur, feathers and sheeps wool.", "Token": "wholesale"}
+{"True Label": "ADJ", "Prediction": "NOUN", "TEXT": "People love to buy these cute cuddly little animals for gifts and collectables.", "Token": "cuddly"}
+{"True Label": "NOUN", "Prediction": "ADJ", "TEXT": "Attention Retail Stores & Vendors:", "Token": "Attention"}
+{"True Label": "NOUN", "Prediction": "PROPN", "TEXT": "Attention Retail Stores & Vendors:", "Token": "Retail"}
+{"True Label": "NOUN", "Prediction": "PROPN", "TEXT": "Attention Retail Stores & Vendors:", "Token": "Stores"}
+{"True Label": "ADJ", "Prediction": "NOUN", "TEXT": "We are looking to expand our Wholesale Clients across the Nation.", "Token": "Wholesale"}
+{"True Label": "NOUN", "Prediction": "PROPN", "TEXT": "We are looking to expand our Wholesale Clients across the Nation.", "Token": "Nation"}
+{"True Label": "NOUN", "Prediction": "PROPN", "TEXT": "If you own a Retail Store or are a Professional Vendor who exhibits at Sport, Hunting, or Craft Shows and are interested in selling our products,please give us a call!", "Token": "Retail"}
+{"True Label": "NOUN", "Prediction": "PROPN", "TEXT": "If you own a Retail Store or are a Professional Vendor who exhibits at Sport, Hunting, or Craft Shows and are interested in selling our products,please give us a call!", "Token": "Craft"}
+{"True Label": "ADJ", "Prediction": "NOUN", "TEXT": "We have a Full Color Catalog and Wholesale Price List ready to mail to you today!", "Token": "Wholesale"}
+{"True Label": "ADJ", "Prediction": "NOUN", "TEXT": "No minimum order amount.", "Token": "minimum"}
+{"True Label": "PROPN", "Prediction": "NOUN", "TEXT": "We accecpt: Visa, MasterCard, Amex, Dinners Club/Carte Blanche, & Personal Checks/Money Orders.", "Token": "MasterCard"}
+{"True Label": "PROPN", "Prediction": "NOUN", "TEXT": "We accecpt: Visa, MasterCard, Amex, Dinners Club/Carte Blanche, & Personal Checks/Money Orders.", "Token": "Dinner"}
+{"True Label": "PROPN", "Prediction": "NOUN", "TEXT": "We accecpt: Visa, MasterCard, Amex, Dinners Club/Carte Blanche, & Personal Checks/Money Orders.", "Token": "Club"}
+{"True Label": "X", "Prediction": "NOUN", "TEXT": "Animals R Us.Net Bill Schmidt animalsr...@aol.com 732-657-3416 1027 Jolson Court Manchester, N.J. 08759", "Token": "Animals"}
+{"True Label": "X", "Prediction": "ADP", "TEXT": "Animals R Us.Net Bill Schmidt animalsr...@aol.com 732-657-3416 1027 Jolson Court Manchester, N.J. 08759", "Token": "R"}
+{"True Label": "X", "Prediction": "PROPN", "TEXT": "Animals R Us.Net Bill Schmidt animalsr...@aol.com 732-657-3416 1027 Jolson Court Manchester, N.J. 08759", "Token": "Us.Net"}
+{"True Label": "PROPN", "Prediction": "NOUN", "TEXT": "Wei Ligang, a rising star of modern art in China, just had an exhibition in mid-July, 2005 in Hong Kong.", "Token": "mid-July"}
+{"True Label": "NOUN", "Prediction": "PROPN", "TEXT": "He is regarded as one of the leading Avant-Garde artist of modern calligraphy.", "Token": "Avant"}
+{"True Label": "NOUN", "Prediction": "ADJ", "TEXT": "\"Wei has given some virtuoso performances with brush and ink, often incorporating several different techniques into a single work,\" said Gordon S. Barrass, curator of the exhibition.", "Token": "virtuoso"}
+{"True Label": "ADJ", "Prediction": "NOUN", "TEXT": "In the world of \"Wei's magic cubes,\" all seem to be ingeniously planned and tricky.", "Token": "magic"}
+{"True Label": "DET", "Prediction": "ADJ", "TEXT": "In the world of \"Wei's magic cubes,\" all seem to be ingeniously planned and tricky.", "Token": "all"}
+{"True Label": "ADJ", "Prediction": "NOUN", "TEXT": "In Wei's art, a logician could see mathematical logic, a cellist could see a ripple of nine bass notes, a country girl could see straw, and Harry Potter could see two accompanied green blazes.", "Token": "bass"}
+{"True Label": "VERB", "Prediction": "ADJ", "TEXT": "In Wei's art, a logician could see mathematical logic, a cellist could see a ripple of nine bass notes, a country girl could see straw, and Harry Potter could see two accompanied green blazes.", "Token": "accompanied"}
+{"True Label": "VERB", "Prediction": "AUX", "TEXT": "\"...to gaze at Wei's art is like entering a floating world of dreams.\"", "Token": "is"}
+{"True Label": "VERB", "Prediction": "ADJ", "TEXT": "\"...to gaze at Wei's art is like entering a floating world of dreams.\"", "Token": "floating"}
+{"True Label": "PROPN", "Prediction": "NOUN", "TEXT": "--- The Art of Calligraphy in Modern China (British Museum Press, 2002)", "Token": "Art"}
+{"True Label": "PROPN", "Prediction": "NOUN", "TEXT": "--- The Art of Calligraphy in Modern China (British Museum Press, 2002)", "Token": "Calligraphy"}
+{"True Label": "SYM", "Prediction": "PUNCT", "TEXT": "Microsoft is 4-0 (they took down Netscape, Suns Systems, MAC and IBM) and Google may be their next target.", "Token": "-"}
+{"True Label": "X", "Prediction": "PROPN", "TEXT": "\"While we don't have anything specific to announce today, Google and the Wikimedia Foundation are collaboratively evaluating creative ways to support Wikipedia.org and its community.\"", "Token": "Wikipedia.org"}
+{"True Label": "NOUN", "Prediction": "PROPN", "TEXT": "It will be interesting to see whether or not Google will finally slay the Microsoft Goliath, who has known no major defeat and seeks to vanquish all competition.", "Token": "Goliath"}
+{"True Label": "PROPN", "Prediction": "X", "TEXT": "Email: \"Ruth\"<ruth.penyc...@bbc.co.uk>", "Token": "Ruth"}
+{"True Label": "ADV", "Prediction": "NOUN", "TEXT": "Hello there", "Token": "there"}
+{"True Label": "ADV", "Prediction": "ADP", "TEXT": "Action Network is also a good place to post details of events, or try to rally together a group if you want to take action in your area.", "Token": "together"}
+{"True Label": "ADP", "Prediction": "ADV", "TEXT": "I'm more than happy to help people with the site or answer any questions about Action Network - just drop me a message.", "Token": "than"}
+{"True Label": "NOUN", "Prediction": "PRON", "TEXT": "I'm more than happy to help people with the site or answer any questions about Action Network - just drop me a message.", "Token": "people"}
+{"True Label": "ADV", "Prediction": "ADP", "TEXT": "One little boy stands up and offersthat, \"if my best friend who lives next door was playing in the street when a car came along and killed him, that would be a tragedy\".", "Token": "up"}
+{"True Label": "ADJ", "Prediction": "ADV", "TEXT": "One little boy stands up and offersthat, \"if my best friend who lives next door was playing in the street when a car came along and killed him, that would be a tragedy\".", "Token": "next"}
+{"True Label": "ADJ", "Prediction": "VERB", "TEXT": "\"If a school bus carrying fifty children drove off a cliff, killing everyone involved... that would be a tragedy\".", "Token": "involved"}
+{"True Label": "VERB", "Prediction": "AUX", "TEXT": "\"What?\" asks Winston, \"isn't there any one here who can give me an example of a tragedy?\"", "Token": "is"}
+{"True Label": "NOUN", "Prediction": "DET", "TEXT": "\"What?\" asks Winston, \"isn't there any one here who can give me an example of a tragedy?\"", "Token": "any"}
+{"True Label": "X", "Prediction": "NOUN", "TEXT": "\"What?\" asks Winston, \"isn't there any one here who can give me an example of a tragedy?\"", "Token": "one"}
+{"True Label": "ADV", "Prediction": "SCONJ", "TEXT": "And can you tell me WHY that would be a tragedy?\"", "Token": "WHY"}
+{"True Label": "X", "Prediction": "PROPN", "TEXT": "Photo from Space.com", "Token": "Space.com"}
+{"True Label": "ADJ", "Prediction": "PROPN", "TEXT": "It looks like The Lunar Transportation Systems, Inc. is visualizing a \"space highway\" going from the moon to Earth (and back again).", "Token": "Lunar"}
+{"True Label": "PROPN", "Prediction": "NOUN", "TEXT": "It looks like The Lunar Transportation Systems, Inc. is visualizing a \"space highway\" going from the moon to Earth (and back again).", "Token": "moon"}
+{"True Label": "X", "Prediction": "PROPN", "TEXT": "\"Our new lunar transportation system utilizes a unique architecture that will establish the equivalent of a two-way highway between the Earth and the Moon,\" Kistler told SPACE.com.", "Token": "SPACE.com"}
+{"True Label": "NOUN", "Prediction": "VERB", "TEXT": "\"Our plans include raising private capital to develop, build, flight test, and operate this Earth-Moon highway for the benefit of the country and the benefit of our investors.\"", "Token": "flight"}
+{"True Label": "VERB", "Prediction": "ADP", "TEXT": "\"Our plans include raising private capital to develop, build, flight test, and operate this Earth-Moon highway for the benefit of the country and the benefit of our investors.\"", "Token": "test"}
+{"True Label": "ADJ", "Prediction": "PROPN", "TEXT": "The Lunar Transporatation Systems (LTS) is actually being funded by two space businessmen, Walter Kistler and Bob Citron.", "Token": "Lunar"}
+{"True Label": "PROPN", "Prediction": "NOUN", "TEXT": "They want to use LTS to tie into NASA's vision for Space Exploration, and seem pleased that the White House is moving in that direction.", "Token": "LTS"}
+{"True Label": "NOUN", "Prediction": "PROPN", "TEXT": "They want to use LTS to tie into NASA's vision for Space Exploration, and seem pleased that the White House is moving in that direction.", "Token": "Space"}
+{"True Label": "NOUN", "Prediction": "PROPN", "TEXT": "They want to use LTS to tie into NASA's vision for Space Exploration, and seem pleased that the White House is moving in that direction.", "Token": "Exploration"}
+{"True Label": "NOUN", "Prediction": "PROPN", "TEXT": "\"We are so excited that the White House and the recent new government space policy underscores the need to involve the private sector in assisting NASA develop its plans for the new Vision for Space Exploration,\" said Walter Kistler, LTS co-founder and Chairman.", "Token": "Space"}
+{"True Label": "NOUN", "Prediction": "PROPN", "TEXT": "\"We are so excited that the White House and the recent new government space policy underscores the need to involve the private sector in assisting NASA develop its plans for the new Vision for Space Exploration,\" said Walter Kistler, LTS co-founder and Chairman.", "Token": "Exploration"}
+{"True Label": "ADJ", "Prediction": "NOUN", "TEXT": "Lunar landers and other gear needed for extended visits to the moon will be lofted by gargantuan launchers as big as the Apollo-era Saturn 5, the most powerful rockets ever flown.", "Token": "Lunar"}
+{"True Label": "PROPN", "Prediction": "NOUN", "TEXT": "Lunar landers and other gear needed for extended visits to the moon will be lofted by gargantuan launchers as big as the Apollo-era Saturn 5, the most powerful rockets ever flown.", "Token": "moon"}
+{"True Label": "PROPN", "Prediction": "NUM", "TEXT": "Lunar landers and other gear needed for extended visits to the moon will be lofted by gargantuan launchers as big as the Apollo-era Saturn 5, the most powerful rockets ever flown.", "Token": "5"}
+{"True Label": "ADJ", "Prediction": "ADV", "TEXT": "Although these new rockets are probably more expensive, they will be able to go at a much greater range than it's shuttle cousins, as they can not only break free from the atmosphere but reach the moon as well.", "Token": "free"}
+{"True Label": "PROPN", "Prediction": "NOUN", "TEXT": "Although these new rockets are probably more expensive, they will be able to go at a much greater range than it's shuttle cousins, as they can not only break free from the atmosphere but reach the moon as well.", "Token": "moon"}
+{"True Label": "NOUN", "Prediction": "PROPN", "TEXT": "\"NASA will initiate development of a Crew Launch Vehicle derived from space shuttle solid rocket boosters with a new upper stage for human spaceflight,\" said the letter, signed by NASA Administrator Mike Griffin and the Pentagon's top space official, ex-astronaut Ron Sega...", "Token": "Crew"}
+{"True Label": "NOUN", "Prediction": "PROPN", "TEXT": "\"NASA will initiate development of a Crew Launch Vehicle derived from space shuttle solid rocket boosters with a new upper stage for human spaceflight,\" said the letter, signed by NASA Administrator Mike Griffin and the Pentagon's top space official, ex-astronaut Ron Sega...", "Token": "Launch"}
+{"True Label": "NOUN", "Prediction": "PROPN", "TEXT": "\"NASA will initiate development of a Crew Launch Vehicle derived from space shuttle solid rocket boosters with a new upper stage for human spaceflight,\" said the letter, signed by NASA Administrator Mike Griffin and the Pentagon's top space official, ex-astronaut Ron Sega...", "Token": "Vehicle"}
+{"True Label": "ADJ", "Prediction": "NOUN", "TEXT": "\"NASA will initiate development of a Crew Launch Vehicle derived from space shuttle solid rocket boosters with a new upper stage for human spaceflight,\" said the letter, signed by NASA Administrator Mike Griffin and the Pentagon's top space official, ex-astronaut Ron Sega...", "Token": "solid"}
+{"True Label": "NOUN", "Prediction": "PROPN", "TEXT": "\"NASA will initiate development of a Crew Launch Vehicle derived from space shuttle solid rocket boosters with a new upper stage for human spaceflight,\" said the letter, signed by NASA Administrator Mike Griffin and the Pentagon's top space official, ex-astronaut Ron Sega...", "Token": "Administrator"}
+{"True Label": "NOUN", "Prediction": "PROPN", "TEXT": "\"NASA will initiate development of a Crew Launch Vehicle derived from space shuttle solid rocket boosters with a new upper stage for human spaceflight,\" said the letter, signed by NASA Administrator Mike Griffin and the Pentagon's top space official, ex-astronaut Ron Sega...", "Token": "ex-astronaut"}
+{"True Label": "VERB", "Prediction": "ADJ", "TEXT": "\"NASA then plans to develop a new 100-metric-ton-class launch vehicle derived from existing capabilities with the space shuttle external tanks and solid rocket boosters for future missions to the moon,\" the letter said.", "Token": "existing"}
+{"True Label": "NOUN", "Prediction": "PROPN", "TEXT": "\"NASA then plans to develop a new 100-metric-ton-class launch vehicle derived from existing capabilities with the space shuttle external tanks and solid rocket boosters for future missions to the moon,\" the letter said.", "Token": "space"}
+{"True Label": "ADJ", "Prediction": "NOUN", "TEXT": "\"NASA then plans to develop a new 100-metric-ton-class launch vehicle derived from existing capabilities with the space shuttle external tanks and solid rocket boosters for future missions to the moon,\" the letter said.", "Token": "external"}
+{"True Label": "PROPN", "Prediction": "NOUN", "TEXT": "\"NASA then plans to develop a new 100-metric-ton-class launch vehicle derived from existing capabilities with the space shuttle external tanks and solid rocket boosters for future missions to the moon,\" the letter said.", "Token": "moon"}
+{"True Label": "DET", "Prediction": "ADV", "TEXT": "The new rocket design will differ slightly from it's predecessors, in the fact that the crew and cargo would launch separately from two different rockets each and join up in space later on.", "Token": "each"}
+{"True Label": "ADV", "Prediction": "DET", "TEXT": "But I was not pleased to read the description in the catalog: \"No good in a bed, but fine against a wall.\"", "Token": "No"}
+{"True Label": "ADP", "Prediction": "ADV", "TEXT": "I have never hated a man enough to give his diamonds back.", "Token": "back"}
+{"True Label": "PROPN", "Prediction": "VERB", "TEXT": "- Zsa Zsa Gabor", "Token": "Zsa"}
+{"True Label": "ADV", "Prediction": "DET", "TEXT": "Only Irish coffee provides in a single glass all four essential food groups: alcohol, caffeine, sugar and fat.", "Token": "Only"}
+{"True Label": "VERB", "Prediction": "AUX", "TEXT": "Until I was thirteen, I thought my name was shut up.", "Token": "was"}
+{"True Label": "ADV", "Prediction": "ADJ", "TEXT": "By the time a man is wise enough to watch his step, he's too old to go anywhere.", "Token": "enough"}
+{"True Label": "NUM", "Prediction": "NOUN", "TEXT": "52K Download", "Token": "K"}
+{"True Label": "NOUN", "Prediction": "PROPN", "TEXT": "52K Download", "Token": "Download"}
+{"True Label": "PROPN", "Prediction": "ADJ", "TEXT": "portuguese", "Token": "portuguese"}
+{"True Label": "ADJ", "Prediction": "PROPN", "TEXT": "Green", "Token": "Green"}
+{"True Label": "ADV", "Prediction": "ADJ", "TEXT": "how fare of kolkatta?", "Token": "how"}
+{"True Label": "PROPN", "Prediction": "NOUN", "TEXT": "how fare of kolkatta?", "Token": "kolkatta"}
+{"True Label": "INTJ", "Prediction": "PROPN", "TEXT": "roflmao", "Token": "roflmao"}
+{"True Label": "PROPN", "Prediction": "NOUN", "TEXT": "how much does it cost to join world resorts international?", "Token": "resorts"}
+{"True Label": "PROPN", "Prediction": "ADJ", "TEXT": "how much does it cost to join world resorts international?", "Token": "international"}
+{"True Label": "ADV", "Prediction": "VERB", "TEXT": "email them at address below", "Token": "below"}
+{"True Label": "INTJ", "Prediction": "ADV", "TEXT": "Here in Indiana I think it's like $3 or $4 for a meal.", "Token": "like"}
+{"True Label": "PROPN", "Prediction": "ADP", "TEXT": "in n out of the chicago area?", "Token": "in"}
+{"True Label": "PROPN", "Prediction": "ADP", "TEXT": "in n out of the chicago area?", "Token": "out"}
+{"True Label": "PROPN", "Prediction": "ADV", "TEXT": "which burger chain do you think is as good as in n out or better in the chicago area besides five guys and smashburger?", "Token": "in"}
+{"True Label": "PROPN", "Prediction": "ADV", "TEXT": "which burger chain do you think is as good as in n out or better in the chicago area besides five guys and smashburger?", "Token": "out"}
+{"True Label": "PROPN", "Prediction": "NUM", "TEXT": "which burger chain do you think is as good as in n out or better in the chicago area besides five guys and smashburger?", "Token": "five"}
+{"True Label": "PROPN", "Prediction": "NOUN", "TEXT": "which burger chain do you think is as good as in n out or better in the chicago area besides five guys and smashburger?", "Token": "guys"}
+{"True Label": "PROPN", "Prediction": "NOUN", "TEXT": "kindly contact laxmi nagar zim in delhi..", "Token": "laxmi"}
+{"True Label": "PROPN", "Prediction": "NOUN", "TEXT": "kindly contact laxmi nagar zim in delhi..", "Token": "nagar"}
+{"True Label": "PROPN", "Prediction": "NOUN", "TEXT": "kindly contact laxmi nagar zim in delhi..", "Token": "zim"}
+{"True Label": "PROPN", "Prediction": "INTJ", "TEXT": "No, but I do believe some Koreans reside in the country of HA-ha!", "Token": "ha"}
+{"True Label": "PROPN", "Prediction": "NOUN", "TEXT": "You'd need their Apple ID and password, if you had that then yes you can track any iPhone.", "Token": "iPhone"}
+{"True Label": "VERB", "Prediction": "AUX", "TEXT": "He is at his best when he is doing his Nerd impression...", "Token": "is"}
+{"True Label": "ADJ", "Prediction": "ADV", "TEXT": "He is at his best when he is doing his Nerd impression...", "Token": "best"}
+{"True Label": "NOUN", "Prediction": "PROPN", "TEXT": "He is at his best when he is doing his Nerd impression...", "Token": "Nerd"}
+{"True Label": "NOUN", "Prediction": "PROPN", "TEXT": "weather in december in Tremblant?", "Token": "weather"}
+{"True Label": "AUX", "Prediction": "VERB", "TEXT": "In the ski resort areas, there will likely be man-made snow on the slopes.", "Token": "be"}
+{"True Label": "PROPN", "Prediction": "ADV", "TEXT": "jay is it necessary to varnish my oil paintings or just leave them be ?", "Token": "jay"}
+{"True Label": "X", "Prediction": "PROPN", "TEXT": "I'm looking for websites like flickr.com tumblr.com and autocorrects.com but ones that aren't very common and have a variety of funny pictures!", "Token": "flickr.com"}
+{"True Label": "X", "Prediction": "PROPN", "TEXT": "I'm looking for websites like flickr.com tumblr.com and autocorrects.com but ones that aren't very common and have a variety of funny pictures!", "Token": "tumblr.com"}
+{"True Label": "X", "Prediction": "PROPN", "TEXT": "I'm looking for websites like flickr.com tumblr.com and autocorrects.com but ones that aren't very common and have a variety of funny pictures!", "Token": "autocorrects.com"}
+{"True Label": "X", "Prediction": "PROPN", "TEXT": "Ifunny.com", "Token": "Ifunny.com"}
+{"True Label": "ADV", "Prediction": "ADJ", "TEXT": "thick cut bacon or really good sausages", "Token": "thick"}
+{"True Label": "VERB", "Prediction": "NOUN", "TEXT": "thick cut bacon or really good sausages", "Token": "cut"}
+{"True Label": "PROPN", "Prediction": "NOUN", "TEXT": "mazzoni's deli best italian food in phila pa?", "Token": "deli"}
+{"True Label": "ADJ", "Prediction": "NOUN", "TEXT": "mazzoni's deli best italian food in phila pa?", "Token": "italian"}
+{"True Label": "PROPN", "Prediction": "NOUN", "TEXT": "is mazzoni's deli at 3901 conshocken ave in phila pa really the best italian food in the country???", "Token": "deli"}
+{"True Label": "PROPN", "Prediction": "VERB", "TEXT": "is mazzoni's deli at 3901 conshocken ave in phila pa really the best italian food in the country???", "Token": "conshocken"}
+{"True Label": "ADP", "Prediction": "X", "TEXT": "is mazzoni's deli at 3901 conshocken ave in phila pa really the best italian food in the country???", "Token": "in"}
+{"True Label": "PROPN", "Prediction": "AUX", "TEXT": "is mazzoni's deli at 3901 conshocken ave in phila pa really the best italian food in the country???", "Token": "pa"}
+{"True Label": "PROPN", "Prediction": "NOUN", "TEXT": "Rumba Room", "Token": "Rumba"}
+{"True Label": "PROPN", "Prediction": "NOUN", "TEXT": "Rumba Room", "Token": "Room"}
+{"True Label": "PROPN", "Prediction": "VERB", "TEXT": "Courage the cowardly dog?", "Token": "Courage"}
+{"True Label": "PROPN", "Prediction": "ADJ", "TEXT": "In the Episode \"So in Louvre Are We Two\", How many diffrent painting/scupltures are their and who are the artists?", "Token": "Two"}
+{"True Label": "VERB", "Prediction": "AUX", "TEXT": "In the Episode \"So in Louvre Are We Two\", How many diffrent painting/scupltures are their and who are the artists?", "Token": "are"}
+{"True Label": "NOUN", "Prediction": "PROPN", "TEXT": "Corn Dog", "Token": "Dog"}
+{"True Label": "NOUN", "Prediction": "PROPN", "TEXT": "Candy Apple", "Token": "Candy"}
+{"True Label": "NOUN", "Prediction": "PROPN", "TEXT": "Candy Apple", "Token": "Apple"}
+{"True Label": "NOUN", "Prediction": "PROPN", "TEXT": "Meat Kabob", "Token": "Kabob"}
+{"True Label": "NOUN", "Prediction": "PROPN", "TEXT": "Ship on a Stick (Prize at various trivia type contests on board.)", "Token": "Stick"}
+{"True Label": "PRON", "Prediction": "DET", "TEXT": "All of those ;D", "Token": "those"}
+{"True Label": "SYM", "Prediction": "NOUN", "TEXT": "All of those ;D", "Token": ";D"}
+{"True Label": "NOUN", "Prediction": "PROPN", "TEXT": "Monkey Brain.", "Token": "Monkey"}
+{"True Label": "NOUN", "Prediction": "PROPN", "TEXT": "Monkey Brain.", "Token": "Brain"}
+{"True Label": "NOUN", "Prediction": "ADJ", "TEXT": "I like my Monkey Brain on a stick for sure.", "Token": "Monkey"}
+{"True Label": "VERB", "Prediction": "SCONJ", "TEXT": "How come no one bothers to ask any questions in this section?", "Token": "come"}
+{"True Label": "NOUN", "Prediction": "PRON", "TEXT": "I mean besides me of course.", "Token": "course"}
+{"True Label": "ADJ", "Prediction": "ADV", "TEXT": "Someone had to be first.", "Token": "first"}
+{"True Label": "NOUN", "Prediction": "ADJ", "TEXT": "Their service is top-notch and I especially love the free French champagne served even in Economy.", "Token": "notch"}
+{"True Label": "NOUN", "Prediction": "PROPN", "TEXT": "Their service is top-notch and I especially love the free French champagne served even in Economy.", "Token": "Economy"}
+{"True Label": "ADJ", "Prediction": "PROPN", "TEXT": "Plus you land in a preferential terminal...", "Token": "preferential"}
+{"True Label": "ADJ", "Prediction": "PROPN", "TEXT": "expensive", "Token": "expensive"}
+{"True Label": "ADJ", "Prediction": "PROPN", "TEXT": "What's the difference between Indian and African ringnecks and alexandrine parrots? ?", "Token": "alexandrine"}
+{"True Label": "AUX", "Prediction": "VERB", "TEXT": "So does anyone know what the difference is?", "Token": "is"}
+{"True Label": "PROPN", "Prediction": "NOUN", "TEXT": "no they wont be able to some gamestops dont check ID for the pre-order so some ppl can get away with doing this but alot of store want to see your id and/or your reciept of the pre-order", "Token": "gamestops"}
+{"True Label": "PROPN", "Prediction": "NOUN", "TEXT": "Has anyone ever worked for steiner leisure cruises?", "Token": "steiner"}
+{"True Label": "PROPN", "Prediction": "NOUN", "TEXT": "Has anyone ever worked for steiner leisure cruises?", "Token": "leisure"}
+{"True Label": "PROPN", "Prediction": "NOUN", "TEXT": "Has anyone ever worked for steiner leisure cruises?", "Token": "cruises"}
+{"True Label": "ADP", "Prediction": "SCONJ", "TEXT": "Was wondering if anyone knew a rough estimate of how much it costs with travel and training", "Token": "with"}
+{"True Label": "VERB", "Prediction": "AUX", "TEXT": "I haven't personally but I know a couple of people who have.", "Token": "have"}
+{"True Label": "NOUN", "Prediction": "VERB", "TEXT": "Wendi has worked for them have a look at her blog.", "Token": "look"}
+{"True Label": "PROPN", "Prediction": "NOUN", "TEXT": "Prosperity POS makes the best pos systems.", "Token": "Prosperity"}
+{"True Label": "NOUN", "Prediction": "PROPN", "TEXT": "Prosperity POS makes the best pos systems.", "Token": "pos"}
+{"True Label": "NOUN", "Prediction": "PROPN", "TEXT": "I use them for my restaurant and always get compliments on the sleek look of the mac system not to mention how good the support is.", "Token": "mac"}
+{"True Label": "PROPN", "Prediction": "NOUN", "TEXT": "I've been looking at the bose sound dock 10 ive currently got a jvc mini hifi system, i was wondering what would be a good set of speakers.", "Token": "sound"}
+{"True Label": "PROPN", "Prediction": "NOUN", "TEXT": "I've been looking at the bose sound dock 10 ive currently got a jvc mini hifi system, i was wondering what would be a good set of speakers.", "Token": "dock"}
+{"True Label": "NUM", "Prediction": "SCONJ", "TEXT": "I've been looking at the bose sound dock 10 ive currently got a jvc mini hifi system, i was wondering what would be a good set of speakers.", "Token": "10"}
+{"True Label": "X", "Prediction": "NOUN", "TEXT": "I've been looking at the bose sound dock 10 ive currently got a jvc mini hifi system, i was wondering what would be a good set of speakers.", "Token": "mini"}
+{"True Label": "ADJ", "Prediction": "PROPN", "TEXT": "B&w.", "Token": "B"}
+{"True Label": "ADJ", "Prediction": "NOUN", "TEXT": "B&w.", "Token": "w"}
+{"True Label": "PROPN", "Prediction": "NOUN", "TEXT": "Bose is not good", "Token": "Bose"}
+{"True Label": "ADJ", "Prediction": "ADP", "TEXT": "I have ordered Bose Headfones worth 300USD.", "Token": "worth"}
+{"True Label": "NOUN", "Prediction": "SYM", "TEXT": "I have ordered Bose Headfones worth 300USD.", "Token": "USD"}
+{"True Label": "NOUN", "Prediction": "ADJ", "TEXT": "They have been shipped using USPS Priority Mail International Parcels.", "Token": "Priority"}
+{"True Label": "NOUN", "Prediction": "PROPN", "TEXT": "They have been shipped using USPS Priority Mail International Parcels.", "Token": "Mail"}
+{"True Label": "NOUN", "Prediction": "ADJ", "TEXT": "i always thought theres no custom charges for gifts.", "Token": "custom"}
+{"True Label": "ADV", "Prediction": "ADJ", "TEXT": "But my resturant is way better than all of them...and it's quite close.", "Token": "close"}
+{"True Label": "ADP", "Prediction": "ADV", "TEXT": "Nearby what?", "Token": "Nearby"}
+{"True Label": "PROPN", "Prediction": "NOUN", "TEXT": "PORTILLO'S OR WHITE CASTLE! :D", "Token": "CASTLE"}
+{"True Label": "PRON", "Prediction": "SCONJ", "TEXT": "NZers: Have you decided who you're going to vote for?", "Token": "who"}
+{"True Label": "PART", "Prediction": "ADV", "TEXT": "not sure yet", "Token": "not"}
+{"True Label": "PROPN", "Prediction": "ADJ", "TEXT": "Yes, I have usually voted National.", "Token": "National"}
+{"True Label": "VERB", "Prediction": "NOUN", "TEXT": "In our hand luggage or do we have to put it into our checked luggage?", "Token": "checked"}
+{"True Label": "NOUN", "Prediction": "PROPN", "TEXT": "We'll see you on 'Border Patrol'", "Token": "Border"}
+{"True Label": "NOUN", "Prediction": "PROPN", "TEXT": "We'll see you on 'Border Patrol'", "Token": "Patrol"}
+{"True Label": "ADJ", "Prediction": "NOUN", "TEXT": "If I went into the \"pre-university\" direction with business administration in mind.", "Token": "pre-university"}
+{"True Label": "SCONJ", "Prediction": "ADP", "TEXT": "If I went into the \"pre-university\" direction with business administration in mind.", "Token": "with"}
+{"True Label": "PROPN", "Prediction": "NOUN", "TEXT": "would I be able to go back to school after a year break at a university to get a Bachelors degree in business administration?", "Token": "Bachelor"}
+{"True Label": "VERB", "Prediction": "AUX", "TEXT": "Universities will take you whatever age you are.", "Token": "are"}
+{"True Label": "NOUN", "Prediction": "PROPN", "TEXT": "frame", "Token": "frame"}
+{"True Label": "ADV", "Prediction": "NOUN", "TEXT": "thumbs down???", "Token": "down"}
+{"True Label": "ADJ", "Prediction": "SCONJ", "TEXT": "odd considering this is a search on the net:", "Token": "odd"}
+{"True Label": "PROPN", "Prediction": "NOUN", "TEXT": "out of carnival, royal caribbean, and norweigan (cruises) which is the best and why?", "Token": "carnival"}
+{"True Label": "NOUN", "Prediction": "ADP", "TEXT": "Of THESE three, it's a toss-up between Royal and Carnival.", "Token": "up"}
+{"True Label": "PROPN", "Prediction": "ADJ", "TEXT": "Of THESE three, it's a toss-up between Royal and Carnival.", "Token": "Royal"}
+{"True Label": "VERB", "Prediction": "AUX", "TEXT": "NCL is a notch below either, in terms of quality and service.", "Token": "is"}
+{"True Label": "DET", "Prediction": "CCONJ", "TEXT": "NCL is a notch below either, in terms of quality and service.", "Token": "either"}
+{"True Label": "ADV", "Prediction": "NOUN", "TEXT": "many PCs have sleep & charge now, that allow the PC to go into sleep mode, and still allow the USB ports to charge things like phones.", "Token": "now"}
+{"True Label": "VERB", "Prediction": "AUX", "TEXT": "Why certain slogans work and why some don't.", "Token": "do"}
+{"True Label": "PRON", "Prediction": "DET", "TEXT": "You will find these helpful in writing a new slogan.", "Token": "these"}
+{"True Label": "NOUN", "Prediction": "PROPN", "TEXT": "A Look at Slogans - http://www.small-business-software.net/look-at-slogans.htm", "Token": "Slogans"}
+{"True Label": "ADJ", "Prediction": "VERB", "TEXT": "No Mad Cow --- Guaranteed!", "Token": "Guaranteed"}
+{"True Label": "PUNCT", "Prediction": "SYM", "TEXT": "I'm looking for a camera that has really good zoom during a video and pictures; and good quality pictures /videos", "Token": "/"}
+{"True Label": "ADJ", "Prediction": "NOUN", "TEXT": "I'm planning on buying a compact system camera at best buy ; so please list the one(s) I should purchase.", "Token": "compact"}
+{"True Label": "PROPN", "Prediction": "NOUN", "TEXT": "I'm planning on buying a compact system camera at best buy ; so please list the one(s) I should purchase.", "Token": "buy"}
+{"True Label": "NOUN", "Prediction": "NUM", "TEXT": "I'm planning on buying a compact system camera at best buy ; so please list the one(s) I should purchase.", "Token": "one"}
+{"True Label": "X", "Prediction": "NOUN", "TEXT": "I'm planning on buying a compact system camera at best buy ; so please list the one(s) I should purchase.", "Token": "s"}
+{"True Label": "ADJ", "Prediction": "NOUN", "TEXT": "Also how much do compact system cameras drop on boxing day?", "Token": "compact"}
+{"True Label": "PROPN", "Prediction": "NOUN", "TEXT": "Also how much do compact system cameras drop on boxing day?", "Token": "boxing"}
+{"True Label": "PROPN", "Prediction": "NOUN", "TEXT": "Also how much do compact system cameras drop on boxing day?", "Token": "day"}
+{"True Label": "PROPN", "Prediction": "NOUN", "TEXT": "**and i can upload my pictures and videos on the computer (facebook)", "Token": "facebook"}
+{"True Label": "PROPN", "Prediction": "NOUN", "TEXT": "have a look at sony wx10", "Token": "wx10"}
+{"True Label": "NOUN", "Prediction": "PROPN", "TEXT": "What are some cool ideas for making a postor usint the word MAD on a white paper in a weird or artsy way?", "Token": "MAD"}
+{"True Label": "NOUN", "Prediction": "ADJ", "TEXT": "MAD means crazy, or angry, so you do a lot with it, i would put a gorrilla screaming , just the face, and just throw in a lot of brushes fifferent colors, make it look artistic.", "Token": "MAD"}
+{"True Label": "VERB", "Prediction": "ADJ", "TEXT": "MAD means crazy, or angry, so you do a lot with it, i would put a gorrilla screaming , just the face, and just throw in a lot of brushes fifferent colors, make it look artistic.", "Token": "screaming"}
+{"True Label": "ADV", "Prediction": "ADP", "TEXT": "MAD means crazy, or angry, so you do a lot with it, i would put a gorrilla screaming , just the face, and just throw in a lot of brushes fifferent colors, make it look artistic.", "Token": "in"}
+{"True Label": "PROPN", "Prediction": "NOUN", "TEXT": "use photoshop.", "Token": "photoshop"}
+{"True Label": "DET", "Prediction": "NOUN", "TEXT": "tttthhhhh Madonna!", "Token": "tttthhhhh"}
+{"True Label": "PROPN", "Prediction": "NUM", "TEXT": "When the French returned to Indochina at the end of WW II the Viet Minh were in control of the Red River Delta.", "Token": "II"}
+{"True Label": "PROPN", "Prediction": "NOUN", "TEXT": "You need to check out the French Indochina War (1946-1954) not the Vietnam War (1957-1975).", "Token": "War"}
+{"True Label": "CCONJ", "Prediction": "ADV", "TEXT": "You need to check out the French Indochina War (1946-1954) not the Vietnam War (1957-1975).", "Token": "not"}
+{"True Label": "NOUN", "Prediction": "ADJ", "TEXT": "Or maybe something humid or heat?", "Token": "heat"}
+{"True Label": "NOUN", "Prediction": "ADJ", "TEXT": "surprise romantic cheap date night san francisco?", "Token": "surprise"}
+{"True Label": "NOUN", "Prediction": "ADJ", "TEXT": "looking for a surprise spot to take my bf.", "Token": "surprise"}
+{"True Label": "INTJ", "Prediction": "NOUN", "TEXT": "o and the cheaper the better (we are trying to save money now, sooo..thatd b helpful) thanks", "Token": "o"}
+{"True Label": "PUNCT", "Prediction": "INTJ", "TEXT": "o and the cheaper the better (we are trying to save money now, sooo..thatd b helpful) thanks", "Token": ".."}
+{"True Label": "X", "Prediction": "PROPN", "TEXT": "Try SanFranGuide.com", "Token": "SanFranGuide.com"}
+{"True Label": "ADJ", "Prediction": "NUM", "TEXT": "for the past few days she has been shivering and wont eat but she could walk now her hid legs are not working but she is back to her self .. what should i do .?", "Token": "hid"}
+{"True Label": "SCONJ", "Prediction": "VERB", "TEXT": "just pray for her ad=nd try to hlep your dog and do some physical therapy on the hind legs and take her to the vet and ig it costs a whole lot ask hlep from you friends and family adn since shes not eating feed her by hand", "Token": "ig"}
+{"True Label": "DET", "Prediction": "ADP", "TEXT": "just pray for her ad=nd try to hlep your dog and do some physical therapy on the hind legs and take her to the vet and ig it costs a whole lot ask hlep from you friends and family adn since shes not eating feed her by hand", "Token": "a"}
+{"True Label": "ADP", "Prediction": "ADV", "TEXT": "Hi, i'm looking to take myself and my best friend and his girl friend and this girl i really like out to dinner for my birthday.", "Token": "out"}
+{"True Label": "VERB", "Prediction": "AUX", "TEXT": "Have no idea what kind of restaurant this is or where it is.", "Token": "is"}
+{"True Label": "ADV", "Prediction": "SCONJ", "TEXT": "Have no idea what kind of restaurant this is or where it is.", "Token": "where"}
+{"True Label": "VERB", "Prediction": "NOUN", "TEXT": "Best count on $50 per person no matter what.", "Token": "count"}
+{"True Label": "ADV", "Prediction": "DET", "TEXT": "Best count on $50 per person no matter what.", "Token": "no"}
+{"True Label": "PROPN", "Prediction": "ADJ", "TEXT": "I need suggestions for San Francisco restaurants with good food and good catering service.?", "Token": "San"}
+{"True Label": "PROPN", "Prediction": "NOUN", "TEXT": "prime ribs have very good food but its super expensive", "Token": "ribs"}
+{"True Label": "VERB", "Prediction": "ADP", "TEXT": "try yelp.com", "Token": "try"}
+{"True Label": "ADJ", "Prediction": "NOUN", "TEXT": "If you mean fluid ounces, 20, as opposed to the 16 in America.", "Token": "fluid"}
+{"True Label": "ADP", "Prediction": "SCONJ", "TEXT": "If you mean fluid ounces, 20, as opposed to the 16 in America.", "Token": "as"}
+{"True Label": "PROPN", "Prediction": "ADJ", "TEXT": "An Irish pint is larger than a US one.", "Token": "US"}
+{"True Label": "NOUN", "Prediction": "NUM", "TEXT": "An Irish pint is larger than a US one.", "Token": "one"}
+{"True Label": "ADJ", "Prediction": "NOUN", "TEXT": "20 fluid ounces in a Pint in Ireland", "Token": "fluid"}
+{"True Label": "PROPN", "Prediction": "NOUN", "TEXT": "Know this well because I remember an 'irish' pub in the town in canada i grew up in used to advertise the cheapest pints of guinness in town, but they served them in american sized pints.", "Token": "guinness"}
+{"True Label": "ADJ", "Prediction": "VERB", "TEXT": "Know this well because I remember an 'irish' pub in the town in canada i grew up in used to advertise the cheapest pints of guinness in town, but they served them in american sized pints.", "Token": "sized"}
+{"True Label": "PROPN", "Prediction": "NOUN", "TEXT": "i love The Script and know there from iraland.", "Token": "Script"}
+{"True Label": "PRON", "Prediction": "DET", "TEXT": "i love The Script and know there from iraland.", "Token": "the"}
+{"True Label": "AUX", "Prediction": "ADP", "TEXT": "i love The Script and know there from iraland.", "Token": "re"}
+{"True Label": "INTJ", "Prediction": "PROPN", "TEXT": "i would like more bands like them pleasseee", "Token": "pleasseee"}
+{"True Label": "VERB", "Prediction": "ADJ", "TEXT": "The thing about The Script is they do not sound that Irish, I was surprised to hear they were from Dublin.", "Token": "surprised"}
+{"True Label": "ADJ", "Prediction": "PROPN", "TEXT": "Well if you are interested, I suggest you have a look at General Fiasco, Two Door Cinema Club and Wallis Bird.", "Token": "General"}
+{"True Label": "PROPN", "Prediction": "NUM", "TEXT": "Well if you are interested, I suggest you have a look at General Fiasco, Two Door Cinema Club and Wallis Bird.", "Token": "Two"}
+{"True Label": "NUM", "Prediction": "PRON", "TEXT": "I've looked and looked, but cannot find one anywhere!", "Token": "one"}
+{"True Label": "ADJ", "Prediction": "VERB", "TEXT": "I would prefer a simple, fitted black one.", "Token": "fitted"}
+{"True Label": "NUM", "Prediction": "NOUN", "TEXT": "It actually needs to be relatively waterproof - the last one I bought had me soaked in anything more than light/moderate rain.", "Token": "one"}
+{"True Label": "ADJ", "Prediction": "VERB", "TEXT": "It actually needs to be relatively waterproof - the last one I bought had me soaked in anything more than light/moderate rain.", "Token": "soaked"}
+{"True Label": "PUNCT", "Prediction": "SYM", "TEXT": "It actually needs to be relatively waterproof - the last one I bought had me soaked in anything more than light/moderate rain.", "Token": "/"}
+{"True Label": "PROPN", "Prediction": "NOUN", "TEXT": "in the craghoppers section", "Token": "craghoppers"}
+{"True Label": "PROPN", "Prediction": "NOUN", "TEXT": "I have a Kodak Camera (10.2 Megapixels)... Kodak AF 5x OPTICAL LENS... how do I pause it while recording?", "Token": "AF"}
+{"True Label": "PROPN", "Prediction": "NUM", "TEXT": "I have a Kodak Camera (10.2 Megapixels)... Kodak AF 5x OPTICAL LENS... how do I pause it while recording?", "Token": "5x"}
+{"True Label": "PROPN", "Prediction": "NOUN", "TEXT": "I have a Kodak Camera (10.2 Megapixels)... Kodak AF 5x OPTICAL LENS... how do I pause it while recording?", "Token": "AF"}
+{"True Label": "PROPN", "Prediction": "NUM", "TEXT": "I have a Kodak Camera (10.2 Megapixels)... Kodak AF 5x OPTICAL LENS... how do I pause it while recording?", "Token": "5x"}
+{"True Label": "VERB", "Prediction": "AUX", "TEXT": "You don't... there's no such thing as \"pause\" in digital recording.", "Token": "do"}
+{"True Label": "VERB", "Prediction": "AUX", "TEXT": "All you can do is take each section (individual video) and edit them together on software.", "Token": "is"}
+{"True Label": "PROPN", "Prediction": "NOUN", "TEXT": "I have a Nacho Libre question.?", "Token": "Libre"}
+{"True Label": "ADP", "Prediction": "SCONJ", "TEXT": "When nacho is driving to cure the influenza guy does he say to the man with the cow i like your blouse or I like your cow because my friend thinks he says I like your blouse, but that wouldn't make sense.", "Token": "to"}
+{"True Label": "ADV", "Prediction": "PART", "TEXT": "I know its in the wrong catagory, but still, I wrote this question for a reason, not for you to critisize me.", "Token": "not"}
+{"True Label": "ADV", "Prediction": "PROPN", "TEXT": "Okay, FIRST, you have posted a question about an American movie, set in Mexico, in the Dining Out in Argentina category.", "Token": "FIRST"}
+{"True Label": "PROPN", "Prediction": "NOUN", "TEXT": "Nacho Libre is suppose to be inspired in Mexicans, not in Argentineans.", "Token": "Mexicans"}
+{"True Label": "ADJ", "Prediction": "PROPN", "TEXT": "so i live in Invercargill New Zealand and i want to know if there are any good places to buy an ice-cream sundae from other than mc donalds lol", "Token": "New"}
+{"True Label": "ADJ", "Prediction": "NOUN", "TEXT": "Any of the tip-top places have great ice-cream, get them to mix it up.", "Token": "tip"}
+{"True Label": "ADJ", "Prediction": "NOUN", "TEXT": "Any of the tip-top places have great ice-cream, get them to mix it up.", "Token": "top"}
+{"True Label": "NOUN", "Prediction": "ADJ", "TEXT": "any Ice Cream In NZ no matter where as New Zealand has the best bl**dy ice cream in the world I was in NZ for a few weeks had some Ice Cream and really enjoyed it I will go back just to eat some Ice Cream", "Token": "Ice"}
+{"True Label": "NOUN", "Prediction": "PROPN", "TEXT": "any Ice Cream In NZ no matter where as New Zealand has the best bl**dy ice cream in the world I was in NZ for a few weeks had some Ice Cream and really enjoyed it I will go back just to eat some Ice Cream", "Token": "Cream"}
+{"True Label": "ADV", "Prediction": "ADP", "TEXT": "any Ice Cream In NZ no matter where as New Zealand has the best bl**dy ice cream in the world I was in NZ for a few weeks had some Ice Cream and really enjoyed it I will go back just to eat some Ice Cream", "Token": "matter"}
+{"True Label": "ADJ", "Prediction": "PROPN", "TEXT": "any Ice Cream In NZ no matter where as New Zealand has the best bl**dy ice cream in the world I was in NZ for a few weeks had some Ice Cream and really enjoyed it I will go back just to eat some Ice Cream", "Token": "New"}
+{"True Label": "ADJ", "Prediction": "NOUN", "TEXT": "any Ice Cream In NZ no matter where as New Zealand has the best bl**dy ice cream in the world I was in NZ for a few weeks had some Ice Cream and really enjoyed it I will go back just to eat some Ice Cream", "Token": "bl**dy"}
+{"True Label": "VERB", "Prediction": "AUX", "TEXT": "any Ice Cream In NZ no matter where as New Zealand has the best bl**dy ice cream in the world I was in NZ for a few weeks had some Ice Cream and really enjoyed it I will go back just to eat some Ice Cream", "Token": "was"}
+{"True Label": "NOUN", "Prediction": "ADJ", "TEXT": "any Ice Cream In NZ no matter where as New Zealand has the best bl**dy ice cream in the world I was in NZ for a few weeks had some Ice Cream and really enjoyed it I will go back just to eat some Ice Cream", "Token": "Ice"}
+{"True Label": "ADJ", "Prediction": "NOUN", "TEXT": "which is the best burger chain in the chicago metro area like for example burger king portillos white castle which one do like the best?", "Token": "metro"}
+{"True Label": "PROPN", "Prediction": "NOUN", "TEXT": "which is the best burger chain in the chicago metro area like for example burger king portillos white castle which one do like the best?", "Token": "burger"}
+{"True Label": "PROPN", "Prediction": "NOUN", "TEXT": "which is the best burger chain in the chicago metro area like for example burger king portillos white castle which one do like the best?", "Token": "king"}
+{"True Label": "PROPN", "Prediction": "NOUN", "TEXT": "which is the best burger chain in the chicago metro area like for example burger king portillos white castle which one do like the best?", "Token": "castle"}
+{"True Label": "NOUN", "Prediction": "NUM", "TEXT": "which is the best burger chain in the chicago metro area like for example burger king portillos white castle which one do like the best?", "Token": "one"}
+{"True Label": "NOUN", "Prediction": "PROPN", "TEXT": "Onion Rings are great and the fries are endless.", "Token": "Onion"}
+{"True Label": "PRON", "Prediction": "PROPN", "TEXT": "idk ur choice", "Token": "ur"}
+{"True Label": "NOUN", "Prediction": "PROPN", "TEXT": "Chain?", "Token": "Chain"}
+{"True Label": "ADJ", "Prediction": "NUM", "TEXT": "Otherwise a 1/2 brick will be fine:", "Token": "1/2"}
+{"True Label": "ADJ", "Prediction": "VERB", "TEXT": "VERY CONCERNED!!!", "Token": "CONCERNED"}
+{"True Label": "INTJ", "Prediction": "VERB", "TEXT": "plz bring your dog to the vet ASAP!!!", "Token": "plz"}
+{"True Label": "ADP", "Prediction": "ADV", "TEXT": "esp if not eating - if it had only happened once and could get him to eat right away - it could have been you missed his meal time and he needed to eat - since it sounds like it has happened several times over two days - then he may have gotten int to something that needs to be attended to RIGHT AWAY!!!", "Token": "int"}
+{"True Label": "X", "Prediction": "ADP", "TEXT": "esp if not eating - if it had only happened once and could get him to eat right away - it could have been you missed his meal time and he needed to eat - since it sounds like it has happened several times over two days - then he may have gotten int to something that needs to be attended to RIGHT AWAY!!!", "Token": "to"}
+{"True Label": "VERB", "Prediction": "AUX", "TEXT": "why are there two statues of David?", "Token": "are"}
+{"True Label": "PRON", "Prediction": "ADV", "TEXT": "why are there two statues of David?", "Token": "there"}
+{"True Label": "DET", "Prediction": "ADJ", "TEXT": "Michelangelo made the marble one but why did he do another if Donatello had already made one?", "Token": "another"}
+{"True Label": "PROPN", "Prediction": "VERB", "TEXT": "different generations , the donatello is of a boy david as a young sheep Herder, the Michelangelo is the grown up man david as slayer and king", "Token": "david"}
+{"True Label": "PROPN", "Prediction": "VERB", "TEXT": "different generations , the donatello is of a boy david as a young sheep Herder, the Michelangelo is the grown up man david as slayer and king", "Token": "david"}
+{"True Label": "VERB", "Prediction": "NOUN", "TEXT": "Obviously, he should have been arrested and jailed - imagine making a statue or painting on the same subject as another artist - clearly insulting and disrespecting - wasted time that could have been used making a statue with clothes on.", "Token": "painting"}
+{"True Label": "ADJ", "Prediction": "VERB", "TEXT": "Obviously, he should have been arrested and jailed - imagine making a statue or painting on the same subject as another artist - clearly insulting and disrespecting - wasted time that could have been used making a statue with clothes on.", "Token": "insulting"}
+{"True Label": "ADJ", "Prediction": "VERB", "TEXT": "Obviously, he should have been arrested and jailed - imagine making a statue or painting on the same subject as another artist - clearly insulting and disrespecting - wasted time that could have been used making a statue with clothes on.", "Token": "disrespecting"}
+{"True Label": "PROPN", "Prediction": "NOUN", "TEXT": "Name of specific Hibachi restaurant in Chicago?", "Token": "Hibachi"}
+{"True Label": "ADJ", "Prediction": "NOUN", "TEXT": "Four guys around a large square open hibachi cook your food, and when it's finished a server brings it to your table.", "Token": "open"}
+{"True Label": "ADJ", "Prediction": "NOUN", "TEXT": "That is Flat Top Grill", "Token": "Top"}
+{"True Label": "PROPN", "Prediction": "NOUN", "TEXT": "That is Flat Top Grill", "Token": "Grill"}
+{"True Label": "ADV", "Prediction": "ADJ", "TEXT": "Well,I'm about to graduate in less then a year,and I'm planning to study medical school.", "Token": "about"}
+{"True Label": "NOUN", "Prediction": "ADV", "TEXT": "But since in my country it lasts for minimum 6 years,and I want to go aground the world,what do you think,should I do it before or after medical school?", "Token": "minimum"}
+{"True Label": "ADP", "Prediction": "ADV", "TEXT": "But since in my country it lasts for minimum 6 years,and I want to go aground the world,what do you think,should I do it before or after medical school?", "Token": "before"}
+{"True Label": "VERB", "Prediction": "AUX", "TEXT": "I would much rather put it off until I can afford to have the vacation of a lifetime as I'm sure this trip is intended to be.", "Token": "be"}
+{"True Label": "NOUN", "Prediction": "DET", "TEXT": "Airfare alone will be incredibly expensive so make sure you have the money and of course free time to take your time and have a great time.", "Token": "course"}
+{"True Label": "PROPN", "Prediction": "ADV", "TEXT": "canon t2i stops working?", "Token": "canon"}
+{"True Label": "PROPN", "Prediction": "NOUN", "TEXT": "canon t2i stops working?", "Token": "t2i"}
+{"True Label": "PROPN", "Prediction": "NOUN", "TEXT": "My canon t2i stops working at times as in the power bottom is switched to \"on\" but the camera does not respond to any function.", "Token": "canon"}
+{"True Label": "PROPN", "Prediction": "NOUN", "TEXT": "My canon t2i stops working at times as in the power bottom is switched to \"on\" but the camera does not respond to any function.", "Token": "t2i"}
+{"True Label": "SCONJ", "Prediction": "ADP", "TEXT": "My canon t2i stops working at times as in the power bottom is switched to \"on\" but the camera does not respond to any function.", "Token": "in"}
+{"True Label": "NOUN", "Prediction": "ADP", "TEXT": "My canon t2i stops working at times as in the power bottom is switched to \"on\" but the camera does not respond to any function.", "Token": "on"}
+{"True Label": "ADV", "Prediction": "ADP", "TEXT": "the camera only begins to work again when i take out the battery and put it back in.", "Token": "in"}
+{"True Label": "NOUN", "Prediction": "ADJ", "TEXT": "Your camera isn't acting normally, you got warranty, let Canon deal with it.", "Token": "warranty"}
+{"True Label": "PROPN", "Prediction": "NOUN", "TEXT": "I shoot a t1i and haven't had such an issue.", "Token": "t1i"}
+{"True Label": "VERB", "Prediction": "PROPN", "TEXT": "Call Canon", "Token": "Call"}
+{"True Label": "ADV", "Prediction": "ADJ", "TEXT": "The sooner the better but I'd probably wait until after the holidays.", "Token": "better"}
+{"True Label": "ADV", "Prediction": "ADP", "TEXT": "Use Travelocity or Expedia and see what you come up with.", "Token": "up"}
+{"True Label": "ADP", "Prediction": "VERB", "TEXT": "Use Travelocity or Expedia and see what you come up with.", "Token": "with"}
+{"True Label": "PROPN", "Prediction": "NOUN", "TEXT": "On my last 6 trips here from the states I used \"Fly genesis\" based in Seattle, Wa.", "Token": "states"}
+{"True Label": "PROPN", "Prediction": "ADJ", "TEXT": "What is the best place to get discounts for San Francisco restaurants?", "Token": "San"}
+{"True Label": "SCONJ", "Prediction": "ADV", "TEXT": "I just want a simple way to get a good deal to whatever Restaurant I want, whenever I want.", "Token": "whenever"}
+{"True Label": "NOUN", "Prediction": "ADV", "TEXT": "So you can pretty much get whatever deal you want anytime.", "Token": "anytime"}
+{"True Label": "NOUN", "Prediction": "ADJ", "TEXT": "May seem a little silly, but, taking a long ride on the Metra system or the \"L\" system is a great way to see the city and sites without spending a fortune.", "Token": "little"}
+{"True Label": "ADV", "Prediction": "SCONJ", "TEXT": "Or how about visiting the Chicago Botanical Gardens and see the change of colors and enjoy the air, They also have many inside exhibits you might enjoy, food is pretty good to.", "Token": "how"}
+{"True Label": "ADV", "Prediction": "PART", "TEXT": "Or how about visiting the Chicago Botanical Gardens and see the change of colors and enjoy the air, They also have many inside exhibits you might enjoy, food is pretty good to.", "Token": "to"}
+{"True Label": "ADP", "Prediction": "NUM", "TEXT": "go 2 starbucks dont spend more than 20 bucks :)", "Token": "2"}
+{"True Label": "NOUN", "Prediction": "PRON", "TEXT": "to make convo, it's short, so if things go great, you can", "Token": "things"}
+{"True Label": "ADV", "Prediction": "ADJ", "TEXT": "to make convo, it's short, so if things go great, you can", "Token": "great"}
+{"True Label": "VERB", "Prediction": "NOUN", "TEXT": "extend, and if you want to end it, you just say bye,", "Token": "extend"}
+{"True Label": "NOUN", "Prediction": "ADJ", "TEXT": "Possibly a freshwater tank with a ton of different species in there.", "Token": "freshwater"}
+{"True Label": "DET", "Prediction": "PRON", "TEXT": "Here is the stocking for my 150 gallon tank i upgraded it to 200 at the weekend because of the clownloach A 200 gallon with 6 pairs of Breeding Angel fish fire mouth honey Gouramis 5 8 inch clownloach a Krib and 5 1 inch clown loach with 16 cory cats 5 Australian Rainbows", "Token": "A"}
+{"True Label": "NOUN", "Prediction": "VERB", "TEXT": "Here is the stocking for my 150 gallon tank i upgraded it to 200 at the weekend because of the clownloach A 200 gallon with 6 pairs of Breeding Angel fish fire mouth honey Gouramis 5 8 inch clownloach a Krib and 5 1 inch clown loach with 16 cory cats 5 Australian Rainbows", "Token": "Breeding"}
+{"True Label": "NOUN", "Prediction": "PROPN", "TEXT": "Here is the stocking for my 150 gallon tank i upgraded it to 200 at the weekend because of the clownloach A 200 gallon with 6 pairs of Breeding Angel fish fire mouth honey Gouramis 5 8 inch clownloach a Krib and 5 1 inch clown loach with 16 cory cats 5 Australian Rainbows", "Token": "Angel"}
+{"True Label": "NOUN", "Prediction": "ADJ", "TEXT": "Here is the stocking for my 150 gallon tank i upgraded it to 200 at the weekend because of the clownloach A 200 gallon with 6 pairs of Breeding Angel fish fire mouth honey Gouramis 5 8 inch clownloach a Krib and 5 1 inch clown loach with 16 cory cats 5 Australian Rainbows", "Token": "fire"}
+{"True Label": "NOUN", "Prediction": "PROPN", "TEXT": "Here is the stocking for my 150 gallon tank i upgraded it to 200 at the weekend because of the clownloach A 200 gallon with 6 pairs of Breeding Angel fish fire mouth honey Gouramis 5 8 inch clownloach a Krib and 5 1 inch clown loach with 16 cory cats 5 Australian Rainbows", "Token": "Gouramis"}
+{"True Label": "NOUN", "Prediction": "PROPN", "TEXT": "Here is the stocking for my 150 gallon tank i upgraded it to 200 at the weekend because of the clownloach A 200 gallon with 6 pairs of Breeding Angel fish fire mouth honey Gouramis 5 8 inch clownloach a Krib and 5 1 inch clown loach with 16 cory cats 5 Australian Rainbows", "Token": "Krib"}
+{"True Label": "NOUN", "Prediction": "ADJ", "TEXT": "If you took out the clown loach it would make a nice 150 gallon tank.", "Token": "nice"}
+{"True Label": "ADJ", "Prediction": "NOUN", "TEXT": "for a tank that size i would suggest oscars or piranha every time awesome fish!!", "Token": "awesome"}
+{"True Label": "NOUN", "Prediction": "VERB", "TEXT": "for a tank that size i would suggest oscars or piranha every time awesome fish!!", "Token": "fish"}
+{"True Label": "ADV", "Prediction": "INTJ", "TEXT": "never response the phone call", "Token": "never"}
+{"True Label": "VERB", "Prediction": "ADP", "TEXT": "never response the phone call", "Token": "response"}
+{"True Label": "DET", "Prediction": "PRON", "TEXT": "WHAT A GREAT DEAL THANK YOU", "Token": "WHAT"}
+{"True Label": "VERB", "Prediction": "AUX", "TEXT": "The pancakes are to die for.", "Token": "are"}
+{"True Label": "VERB", "Prediction": "ADJ", "TEXT": "Best fried shrimp in the state!", "Token": "fried"}
+{"True Label": "PROPN", "Prediction": "ADP", "TEXT": "It taste better than In and Out....", "Token": "In"}
+{"True Label": "PROPN", "Prediction": "ADP", "TEXT": "It taste better than In and Out....", "Token": "Out"}
+{"True Label": "ADV", "Prediction": "ADP", "TEXT": "it was a little to high dollar for me", "Token": "to"}
+{"True Label": "ADJ", "Prediction": "NOUN", "TEXT": "the bast cab in minneapolis", "Token": "bast"}
+{"True Label": "NOUN", "Prediction": "ADJ", "TEXT": "home team - thanks 4 playin!!!", "Token": "home"}
+{"True Label": "NOUN", "Prediction": "ADJ", "TEXT": "Nice Top Lights.", "Token": "Top"}
+{"True Label": "ADV", "Prediction": "ADJ", "TEXT": "The architecture is simplz splendid.", "Token": "simplz"}
+{"True Label": "ADJ", "Prediction": "VERB", "TEXT": "quick in & out.", "Token": "quick"}
+{"True Label": "ADV", "Prediction": "ADP", "TEXT": "quick in & out.", "Token": "in"}
+{"True Label": "ADV", "Prediction": "ADP", "TEXT": "quick in & out.", "Token": "out"}
+{"True Label": "PROPN", "Prediction": "NOUN", "TEXT": "Installed Biometrics and Got Excellent Service.", "Token": "Biometrics"}
+{"True Label": "NOUN", "Prediction": "VERB", "TEXT": "Feels like you are in Brooklyn, but people watching is entertaining.", "Token": "watching"}
+{"True Label": "NOUN", "Prediction": "PROPN", "TEXT": "The best Supermarket in Bay Ridge have everything what a customer needs.", "Token": "Supermarket"}
+{"True Label": "DET", "Prediction": "PRON", "TEXT": "The best Supermarket in Bay Ridge have everything what a customer needs.", "Token": "what"}
+{"True Label": "VERB", "Prediction": "AUX", "TEXT": "We got upgraded to a corner suite!", "Token": "got"}
+{"True Label": "ADJ", "Prediction": "NOUN", "TEXT": "Excellent customer service and quality work.", "Token": "quality"}
+{"True Label": "ADP", "Prediction": "ADJ", "TEXT": "I love this place lots of people to talk to and school is across the street!", "Token": "of"}
+{"True Label": "ADJ", "Prediction": "NOUN", "TEXT": "Make sure to put OILY sauces on your food to make it moist!", "Token": "OILY"}
+{"True Label": "INTJ", "Prediction": "NOUN", "TEXT": "YUM", "Token": "YUM"}
+{"True Label": "PROPN", "Prediction": "ADJ", "TEXT": "- Shree Ghatkopar Bhatia Mitra Mandal", "Token": "Shree"}
+{"True Label": "PROPN", "Prediction": "X", "TEXT": "- Shree Ghatkopar Bhatia Mitra Mandal", "Token": "Bhatia"}
+{"True Label": "PROPN", "Prediction": "X", "TEXT": "- Shree Ghatkopar Bhatia Mitra Mandal", "Token": "Mitra"}
+{"True Label": "PROPN", "Prediction": "NOUN", "TEXT": "Close to my house, this is the only reason I would go to this particular QT.", "Token": "QT"}
+{"True Label": "NOUN", "Prediction": "PROPN", "TEXT": "Mens and Boys Barbers, on the number 9 Bus route.", "Token": "Boys"}
+{"True Label": "NOUN", "Prediction": "PROPN", "TEXT": "Mens and Boys Barbers, on the number 9 Bus route.", "Token": "Barbers"}
+{"True Label": "NOUN", "Prediction": "PROPN", "TEXT": "Mens and Boys Barbers, on the number 9 Bus route.", "Token": "Bus"}
+{"True Label": "PROPN", "Prediction": "NOUN", "TEXT": "Ladies room, Open Sundays", "Token": "Sundays"}
+{"True Label": "NOUN", "Prediction": "ADJ", "TEXT": "service could be a little better but its an all round good place", "Token": "little"}
+{"True Label": "ADV", "Prediction": "PART", "TEXT": "Did services I asked them NOTto do and was still charged.", "Token": "NOT"}
+{"True Label": "ADJ", "Prediction": "NOUN", "TEXT": "the telephone number is incorrect - our new mobile number is 07551310002 or landline 01634 710033.", "Token": "mobile"}
+{"True Label": "PROPN", "Prediction": "NOUN", "TEXT": "the team at barton car wash was very friendly .", "Token": "car"}
+{"True Label": "PROPN", "Prediction": "NOUN", "TEXT": "the team at barton car wash was very friendly .", "Token": "wash"}
+{"True Label": "PROPN", "Prediction": "INTJ", "TEXT": "CLH", "Token": "CLH"}
+{"True Label": "VERB", "Prediction": "ADJ", "TEXT": "Sent scented flowers home instead of postcards.", "Token": "scented"}
+{"True Label": "ADV", "Prediction": "ADP", "TEXT": "Sent scented flowers home instead of postcards.", "Token": "instead"}
+{"True Label": "ADP", "Prediction": "ADV", "TEXT": "Recommend you call in for a look.", "Token": "in"}
+{"True Label": "ADV", "Prediction": "NOUN", "TEXT": "Restaurant on top was renovated, food was decent, price was way to high for Duluth for quality, new decor seems tacky", "Token": "way"}
+{"True Label": "DET", "Prediction": "PRON", "TEXT": "These guys took Customer Service 101 from a Neanderthal.", "Token": "These"}
+{"True Label": "NUM", "Prediction": "NOUN", "TEXT": "These guys took Customer Service 101 from a Neanderthal.", "Token": "101"}
+{"True Label": "PROPN", "Prediction": "NOUN", "TEXT": "These guys took Customer Service 101 from a Neanderthal.", "Token": "Neanderthal"}
+{"True Label": "NOUN", "Prediction": "PROPN", "TEXT": "Media, Software, Fun and Games, Website design, Web Promotion, B2B, Business Promotion, Search Engine Optimization.", "Token": "Search"}
+{"True Label": "ADP", "Prediction": "ADV", "TEXT": "The workers sped up and down the street with no mind to the small children playing.", "Token": "up"}
+{"True Label": "PROPN", "Prediction": "NOUN", "TEXT": "ipad reiew", "Token": "ipad"}
+{"True Label": "PRON", "Prediction": "ADV", "TEXT": "Nothing too much trouble for Ian, thanks for a great stay.", "Token": "Nothing"}
+{"True Label": "DET", "Prediction": "CCONJ", "TEXT": "Daniel and his assistant both did a great job.", "Token": "both"}
+{"True Label": "VERB", "Prediction": "NOUN", "TEXT": "absolutely fantastic experience getting my iphone upgraded at Zion ...", "Token": "upgraded"}
+{"True Label": "ADP", "Prediction": "VERB", "TEXT": "absolutely fantastic experience getting my iphone upgraded at Zion ...", "Token": "at"}
+{"True Label": "PROPN", "Prediction": "ADP", "TEXT": "absolutely fantastic experience getting my iphone upgraded at Zion ...", "Token": "Zion"}
+{"True Label": "PUNCT", "Prediction": "PROPN", "TEXT": "absolutely fantastic experience getting my iphone upgraded at Zion ...", "Token": "..."}
+{"True Label": "SCONJ", "Prediction": "ADP", "TEXT": "Sheer contrast to getting it done at karol bagh which is done under the wooden plank", "Token": "to"}
+{"True Label": "PROPN", "Prediction": "NOUN", "TEXT": "Sheer contrast to getting it done at karol bagh which is done under the wooden plank", "Token": "karol"}
+{"True Label": "PROPN", "Prediction": "NOUN", "TEXT": "Sheer contrast to getting it done at karol bagh which is done under the wooden plank", "Token": "bagh"}
+{"True Label": "NOUN", "Prediction": "PROPN", "TEXT": "Best Electrician in Florence", "Token": "Electrician"}
+{"True Label": "ADV", "Prediction": "PART", "TEXT": "Not impressed.", "Token": "Not"}
+{"True Label": "VERB", "Prediction": "ADJ", "TEXT": "Overpriced and the doctor acted arrogant and rushed at a time when there was very few clients in the facility.", "Token": "rushed"}
+{"True Label": "ADP", "Prediction": "ADV", "TEXT": "A thoroughly comprehensive service; excellent communication and best of they are transparent with their fee (ie nothing is simply implied or assumed).", "Token": "of"}
+{"True Label": "NOUN", "Prediction": "VERB", "TEXT": "Hit or miss on the service.", "Token": "Hit"}
+{"True Label": "NOUN", "Prediction": "VERB", "TEXT": "Hit or miss on the service.", "Token": "miss"}
+{"True Label": "AUX", "Prediction": "VERB", "TEXT": "The company gets busy but you never have to wait long because they ARE orginizied, so you are in, out, and paid well for your scrap", "Token": "gets"}
+{"True Label": "AUX", "Prediction": "VERB", "TEXT": "The company gets busy but you never have to wait long because they ARE orginizied, so you are in, out, and paid well for your scrap", "Token": "ARE"}
+{"True Label": "ADJ", "Prediction": "VERB", "TEXT": "The company gets busy but you never have to wait long because they ARE orginizied, so you are in, out, and paid well for your scrap", "Token": "orginizied"}
+{"True Label": "VERB", "Prediction": "AUX", "TEXT": "The company gets busy but you never have to wait long because they ARE orginizied, so you are in, out, and paid well for your scrap", "Token": "are"}
+{"True Label": "ADV", "Prediction": "ADP", "TEXT": "The company gets busy but you never have to wait long because they ARE orginizied, so you are in, out, and paid well for your scrap", "Token": "in"}
+{"True Label": "ADV", "Prediction": "ADP", "TEXT": "The company gets busy but you never have to wait long because they ARE orginizied, so you are in, out, and paid well for your scrap", "Token": "out"}
+{"True Label": "VERB", "Prediction": "ADJ", "TEXT": "Winning Attorney!", "Token": "Winning"}
+{"True Label": "ADJ", "Prediction": "ADV", "TEXT": "The only 10.0 \"Perfect Score\" AVVO Rated Attorney I Have Ever Met.", "Token": "only"}
+{"True Label": "NOUN", "Prediction": "PROPN", "TEXT": "The only 10.0 \"Perfect Score\" AVVO Rated Attorney I Have Ever Met.", "Token": "Attorney"}
+{"True Label": "PROPN", "Prediction": "NOUN", "TEXT": "Sanctuary is amazing!", "Token": "Sanctuary"}
+{"True Label": "NOUN", "Prediction": "PROPN", "TEXT": "house closing", "Token": "house"}
+{"True Label": "ADJ", "Prediction": "VERB", "TEXT": "Food is often expired so check the dates every time!", "Token": "expired"}
+{"True Label": "SCONJ", "Prediction": "ADP", "TEXT": "Also more often than not you end up with a healthy dose of nasty rude attitude from the employees!", "Token": "than"}
+{"True Label": "ADJ", "Prediction": "ADV", "TEXT": "ALL OF THE TEACHERS THERE ARE SO MEAN THEY GET MAD AT YOU FOR NOTHING!!!!!!!!!!!!!!!!!!!", "Token": "MEAN"}
+{"True Label": "AUX", "Prediction": "VERB", "TEXT": "ALL OF THE TEACHERS THERE ARE SO MEAN THEY GET MAD AT YOU FOR NOTHING!!!!!!!!!!!!!!!!!!!", "Token": "GET"}
+{"True Label": "AUX", "Prediction": "VERB", "TEXT": "THIS IS THE WORST SCHOOL IVE BEEN TO!!!!!!", "Token": "BEEN"}
+{"True Label": "PROPN", "Prediction": "NOUN", "TEXT": "Staten Island Computers", "Token": "Computers"}
+{"True Label": "ADV", "Prediction": "NOUN", "TEXT": "not impressive enough", "Token": "enough"}
+{"True Label": "PROPN", "Prediction": "NOUN", "TEXT": "An Hour Of Prego Bliss!", "Token": "Prego"}
+{"True Label": "NOUN", "Prediction": "PROPN", "TEXT": "An Hour Of Prego Bliss!", "Token": "Bliss"}
+{"True Label": "VERB", "Prediction": "PROPN", "TEXT": "Love Hop City", "Token": "Love"}
+{"True Label": "PROPN", "Prediction": "ADJ", "TEXT": "Compact's Corona dryers remove at least twice as much water as the previous dryers, allowing a production increase of over 10% and a significant energy saving.", "Token": "Corona"}
+{"True Label": "ADV", "Prediction": "NOUN", "TEXT": "Compact's Corona dryers remove at least twice as much water as the previous dryers, allowing a production increase of over 10% and a significant energy saving.", "Token": "twice"}
+{"True Label": "ADV", "Prediction": "ADP", "TEXT": "Compact's Corona dryers remove at least twice as much water as the previous dryers, allowing a production increase of over 10% and a significant energy saving.", "Token": "as"}
+{"True Label": "NOUN", "Prediction": "ADJ", "TEXT": "We would like to thank our emergency plumbers who visted our shop in Morningside Road today.", "Token": "emergency"}
+{"True Label": "PROPN", "Prediction": "NOUN", "TEXT": "many thanks 2scompany...", "Token": "2scompany"}
+{"True Label": "ADJ", "Prediction": "ADP", "TEXT": "The best Thai food I've ever had in Australia, very fresh and so much favor of authentic Thai .", "Token": "much"}
+{"True Label": "ADJ", "Prediction": "NOUN", "TEXT": "The restaurant is the most beautiful thai restaurant in Geelong... just love it", "Token": "thai"}
+{"True Label": "ADJ", "Prediction": "ADV", "TEXT": "Fresh and unic!", "Token": "unic"}
+{"True Label": "SYM", "Prediction": "VERB", "TEXT": "Paula has an amazing gift for creativity, vision and the ability to combine art to / with commercial purpose.", "Token": "/"}
+{"True Label": "INTJ", "Prediction": "ADJ", "TEXT": "Bravo!", "Token": "Bravo"}
+{"True Label": "NOUN", "Prediction": "PROPN", "TEXT": "Their Thali was not brought out as described (no saag).", "Token": "Thali"}
+{"True Label": "DET", "Prediction": "INTJ", "TEXT": "Their Thali was not brought out as described (no saag).", "Token": "no"}
+{"True Label": "PROPN", "Prediction": "NOUN", "TEXT": "Truly james bond style stuff ... would recommend", "Token": "bond"}
+{"True Label": "PRON", "Prediction": "DET", "TEXT": "What a group!", "Token": "What"}
+{"True Label": "VERB", "Prediction": "ADJ", "TEXT": "Fried rice has NO flavor, it literally taste like water.", "Token": "Fried"}
+{"True Label": "ADV", "Prediction": "PART", "TEXT": "Not impressed!!!", "Token": "Not"}
+{"True Label": "AUX", "Prediction": "VERB", "TEXT": "Would not recommend I Was in a fair amount of pain for several weeks.", "Token": "Was"}
+{"True Label": "NOUN", "Prediction": "PROPN", "TEXT": "Best Limo Limousine service in all of Dallas", "Token": "Limo"}
+{"True Label": "NOUN", "Prediction": "PROPN", "TEXT": "Best Limo Limousine service in all of Dallas", "Token": "Limousine"}
+{"True Label": "PROPN", "Prediction": "ADJ", "TEXT": "Great Limos company int he DFW fort Worth Metro area.", "Token": "Great"}
+{"True Label": "NOUN", "Prediction": "PROPN", "TEXT": "Great Limos company int he DFW fort Worth Metro area.", "Token": "Metro"}
+{"True Label": "NOUN", "Prediction": "ADJ", "TEXT": "The waiting staff is really friendly, its like every one knows each other, the manager is really sweet and the food..well no complaints from me.", "Token": "waiting"}
+{"True Label": "VERB", "Prediction": "AUX", "TEXT": "The waiting staff is really friendly, its like every one knows each other, the manager is really sweet and the food..well no complaints from me.", "Token": "s"}
+{"True Label": "NOUN", "Prediction": "PRON", "TEXT": "The waiting staff is really friendly, its like every one knows each other, the manager is really sweet and the food..well no complaints from me.", "Token": "one"}
+{"True Label": "X", "Prediction": "PROPN", "TEXT": "If you check RecWarehouse.com, they don't list this as a location.", "Token": "RecWarehouse.com"}
+{"True Label": "NUM", "Prediction": "PROPN", "TEXT": "You'll have to drive 10 miles down 75 to Allen.", "Token": "75"}
+{"True Label": "ADJ", "Prediction": "NOUN", "TEXT": "MFJ Inc transformed our run down back yard into a place of beauty.", "Token": "back"}
+{"True Label": "ADJ", "Prediction": "PROPN", "TEXT": "spot on", "Token": "spot"}
+{"True Label": "ADJ", "Prediction": "ADV", "TEXT": "spot on", "Token": "on"}
+{"True Label": "ADV", "Prediction": "ADJ", "TEXT": "Worst Tasting Pizza", "Token": "Worst"}
+{"True Label": "VERB", "Prediction": "NOUN", "TEXT": "Worst Tasting Pizza", "Token": "Tasting"}
+{"True Label": "ADV", "Prediction": "ADJ", "TEXT": "This place had the worst tasting pizza I have ever tasted it was possible the worst food I've ever eaten.", "Token": "worst"}
+{"True Label": "ADV", "Prediction": "ADJ", "TEXT": "This place had the worst tasting pizza I have ever tasted it was possible the worst food I've ever eaten.", "Token": "possible"}
+{"True Label": "ADV", "Prediction": "PART", "TEXT": "Not so good", "Token": "Not"}
+{"True Label": "ADV", "Prediction": "PART", "TEXT": "Not worth the money.", "Token": "Not"}
+{"True Label": "ADJ", "Prediction": "ADV", "TEXT": "Bland and over cooked.", "Token": "over"}
+{"True Label": "X", "Prediction": "VERB", "TEXT": "Bland and over cooked.", "Token": "cooked"}
+{"True Label": "ADJ", "Prediction": "ADV", "TEXT": "I felt as if I was in an over priced Olive Garden.", "Token": "over"}
+{"True Label": "X", "Prediction": "ADJ", "TEXT": "I felt as if I was in an over priced Olive Garden.", "Token": "priced"}
+{"True Label": "PART", "Prediction": "ADV", "TEXT": "But not so.", "Token": "not"}
+{"True Label": "ADJ", "Prediction": "PROPN", "TEXT": "I have used Bright Futures for the last 7 years.", "Token": "Bright"}
+{"True Label": "X", "Prediction": "PUNCT", "TEXT": "Also very friendly and the stylists are not in the \"been there/done that\" mood!", "Token": "/"}
+{"True Label": "NOUN", "Prediction": "ADP", "TEXT": "My house already feels fresh and good thanks to the Battery Park Pest I'm enjoying my time indoors much better.", "Token": "thanks"}
+{"True Label": "PRON", "Prediction": "DET", "TEXT": "I had to dig in a bag to find one nice feather, what a joke!", "Token": "what"}
+{"True Label": "ADJ", "Prediction": "VERB", "TEXT": "Gets the Job Done", "Token": "Done"}
+{"True Label": "AUX", "Prediction": "VERB", "TEXT": "Cleanest guesthouse i have been to", "Token": "been"}
+{"True Label": "NOUN", "Prediction": "X", "TEXT": "Good location and off road parking made our stay very convenient.", "Token": "road"}
+{"True Label": "SCONJ", "Prediction": "ADP", "TEXT": "I have use them four times for fixing items from pushing out a dent in a bumper to fixing the fender on my beloved Miata.", "Token": "from"}
+{"True Label": "ADV", "Prediction": "PART", "TEXT": "Not enough seating.", "Token": "Not"}
+{"True Label": "ADJ", "Prediction": "PROPN", "TEXT": "spoken english rushi", "Token": "english"}
+{"True Label": "PROPN", "Prediction": "NOUN", "TEXT": "spoken english rushi", "Token": "rushi"}
+{"True Label": "VERB", "Prediction": "NOUN", "TEXT": "can ever & never forget the training undergone here which made my life step onto the successful job without any hurdles.", "Token": "step"}
+{"True Label": "ADV", "Prediction": "VERB", "TEXT": "The staff, material provided, infra structure, environment &low fees totally above the satisfactory mark", "Token": "totally"}
+{"True Label": "VERB", "Prediction": "AUX", "TEXT": "Took 1+ hour to deliver to Chatham, hair in food, driver didn't know area.", "Token": "Took"}
+{"True Label": "NOUN", "Prediction": "VERB", "TEXT": "Took 1+ hour to deliver to Chatham, hair in food, driver didn't know area.", "Token": "hair"}
+{"True Label": "NOUN", "Prediction": "ADJ", "TEXT": "Noticed a few of these Cookie cutter places opening in Summit and New Providence.", "Token": "few"}
+{"True Label": "NOUN", "Prediction": "PROPN", "TEXT": "Noticed a few of these Cookie cutter places opening in Summit and New Providence.", "Token": "Cookie"}
+{"True Label": "NOUN", "Prediction": "PROPN", "TEXT": "Noticed a few of these Cookie cutter places opening in Summit and New Providence.", "Token": "cutter"}
+{"True Label": "NOUN", "Prediction": "ADV", "TEXT": "the apartment only looks good outsize, inside is too bad.", "Token": "inside"}
+{"True Label": "DET", "Prediction": "NOUN", "TEXT": "too many bugs some you even never seen before.", "Token": "some"}
+{"True Label": "ADV", "Prediction": "ADJ", "TEXT": "Clean store, friendly check-out staff up front.", "Token": "friendly"}
+{"True Label": "ADV", "Prediction": "ADP", "TEXT": "Clean store, friendly check-out staff up front.", "Token": "up"}
+{"True Label": "ADV", "Prediction": "ADJ", "TEXT": "Clean store, friendly check-out staff up front.", "Token": "front"}
+{"True Label": "ADJ", "Prediction": "ADV", "TEXT": "Place is next to carval and walmart.", "Token": "next"}
+{"True Label": "NOUN", "Prediction": "NUM", "TEXT": "Dont go to the one by pepco, I got confused!!!", "Token": "one"}
+{"True Label": "VERB", "Prediction": "AUX", "TEXT": "Dont go to the one by pepco, I got confused!!!", "Token": "got"}
+{"True Label": "PROPN", "Prediction": "ADJ", "TEXT": "Go to ATLANTIC WIRELESS!!", "Token": "ATLANTIC"}
+{"True Label": "NOUN", "Prediction": "ADJ", "TEXT": "I have had several dentists in my life, but Dr. Deters is by far my favorite.", "Token": "favorite"}
+{"True Label": "ADJ", "Prediction": "VERB", "TEXT": "AMAZING", "Token": "AMAZING"}
+{"True Label": "SYM", "Prediction": "PUNCT", "TEXT": "I give this place 11/10.", "Token": "/"}
+{"True Label": "ADV", "Prediction": "ADP", "TEXT": "3 thumbs up.", "Token": "up"}
+{"True Label": "INTJ", "Prediction": "VERB", "TEXT": "Bon appetit!", "Token": "Bon"}
+{"True Label": "INTJ", "Prediction": "NOUN", "TEXT": "Bon appetit!", "Token": "appetit"}
+{"True Label": "ADV", "Prediction": "ADP", "TEXT": "The door is easy to use and it keeps the cold out during the winter.", "Token": "out"}
+{"True Label": "VERB", "Prediction": "AUX", "TEXT": "okay, I dont have a review, but why in the hell would you name your business something that has the initials KKK....is there something behind the scenes at this place?", "Token": "is"}
+{"True Label": "NOUN", "Prediction": "ADV", "TEXT": "We order take out from here all the time and we are never disappointed.", "Token": "out"}
+{"True Label": "ADJ", "Prediction": "VERB", "TEXT": "We order take out from here all the time and we are never disappointed.", "Token": "disappointed"}
+{"True Label": "NOUN", "Prediction": "ADJ", "TEXT": "It can be a little on the spicy side but just ask them exactly what you want and they are very helpful.", "Token": "little"}
+{"True Label": "DET", "Prediction": "NUM", "TEXT": "It was late in the day and I was worried I would get charged an arm and a leg and have to wait forever.", "Token": "an"}
+{"True Label": "PROPN", "Prediction": "NOUN", "TEXT": "We at R&L Plumbing Services are pleased with your professionalism and the extra mile you went to get out computers working correctly, you will be our first call if anything happens again and we will refer you to other people with computer issues.", "Token": "Plumbing"}
+{"True Label": "PRON", "Prediction": "ADV", "TEXT": "We at R&L Plumbing Services are pleased with your professionalism and the extra mile you went to get out computers working correctly, you will be our first call if anything happens again and we will refer you to other people with computer issues.", "Token": "out"}
+{"True Label": "ADJ", "Prediction": "NOUN", "TEXT": "We at R&L Plumbing Services are pleased with your professionalism and the extra mile you went to get out computers working correctly, you will be our first call if anything happens again and we will refer you to other people with computer issues.", "Token": "computer"}
+{"True Label": "ADP", "Prediction": "SCONJ", "TEXT": "She really listens to what it is you would like to achieve, and I am very happy with my results.", "Token": "to"}
+{"True Label": "AUX", "Prediction": "VERB", "TEXT": "She really listens to what it is you would like to achieve, and I am very happy with my results.", "Token": "is"}
+{"True Label": "ADJ", "Prediction": "PROPN", "TEXT": "slow service", "Token": "slow"}
+{"True Label": "ADP", "Prediction": "ADV", "TEXT": "Susanna is the best dress maker/tailor I've ever come across in my whole life!", "Token": "across"}
+{"True Label": "AUX", "Prediction": "VERB", "TEXT": "After they showed up there was a little trouble to get my car unlocked, it took quite a bit of time but the job was well done.", "Token": "was"}
+{"True Label": "NOUN", "Prediction": "PROPN", "TEXT": "Bulwark regarding service by Eric", "Token": "Bulwark"}
+{"True Label": "VERB", "Prediction": "ADJ", "TEXT": "Bulwark regarding service by Eric", "Token": "regarding"}
+{"True Label": "VERB", "Prediction": "ADJ", "TEXT": "Just wanted you to know that Eric came by as scheduled today and sprayed our house for scorpions.", "Token": "scheduled"}
+{"True Label": "NOUN", "Prediction": "PROPN", "TEXT": "Hidden Treasure.", "Token": "Treasure"}
+{"True Label": "NOUN", "Prediction": "VERB", "TEXT": "Strip mall asian it is not!", "Token": "Strip"}
+{"True Label": "ADJ", "Prediction": "X", "TEXT": "Strip mall asian it is not!", "Token": "asian"}
+{"True Label": "PROPN", "Prediction": "NOUN", "TEXT": "Best in HR so far!", "Token": "HR"}
+{"True Label": "ADV", "Prediction": "ADP", "TEXT": "I went to this urgent care center and was blown away with their service.", "Token": "away"}
+{"True Label": "ADV", "Prediction": "ADJ", "TEXT": "Finally a convenient place close to home.", "Token": "close"}
+{"True Label": "PROPN", "Prediction": "NOUN", "TEXT": "Iv just had my bmw z3 rear window replaced by the guys at kelvin trimmers.", "Token": "bmw"}
+{"True Label": "PROPN", "Prediction": "NOUN", "TEXT": "Iv just had my bmw z3 rear window replaced by the guys at kelvin trimmers.", "Token": "z3"}
+{"True Label": "PROPN", "Prediction": "NOUN", "TEXT": "Iv just had my bmw z3 rear window replaced by the guys at kelvin trimmers.", "Token": "trimmers"}
+{"True Label": "PRON", "Prediction": "DET", "TEXT": "The team who work there are helpfull, friendly and extremely knowledgeable and will help you as much as they can with thier years of hands on practice.", "Token": "thier"}
+{"True Label": "ADV", "Prediction": "ADJ", "TEXT": "The team who work there are helpfull, friendly and extremely knowledgeable and will help you as much as they can with thier years of hands on practice.", "Token": "on"}
+{"True Label": "VERB", "Prediction": "AUX", "TEXT": "Okay our room was at times noisy but we were in a mega busy city at an extremely busy time of year.", "Token": "were"}
+{"True Label": "VERB", "Prediction": "ADJ", "TEXT": "Expect either undercooked or mushy food and lackluster service.", "Token": "undercooked"}
+{"True Label": "NOUN", "Prediction": "PROPN", "TEXT": "Believe it or not, but the channel guide has been most helpful to my family members that visit and don't know where to start when it comes to watching satellite tv.", "Token": "satellite"}
+{"True Label": "PART", "Prediction": "ADP", "TEXT": "We went through six photographers to find the right photographers that would represent our firm in the light we wished to and Michael and his team made that happen.", "Token": "to"}
+{"True Label": "VERB", "Prediction": "ADJ", "TEXT": "We went through six photographers to find the right photographers that would represent our firm in the light we wished to and Michael and his team made that happen.", "Token": "happen"}
+{"True Label": "NOUN", "Prediction": "X", "TEXT": "I am in love with the giant plate of nachos!", "Token": "love"}
+{"True Label": "ADJ", "Prediction": "ADV", "TEXT": "Last time I went however, my beer was warm and the service was so-so.", "Token": "so"}
+{"True Label": "ADJ", "Prediction": "ADV", "TEXT": "Last time I went however, my beer was warm and the service was so-so.", "Token": "so"}
+{"True Label": "SYM", "Prediction": "PUNCT", "TEXT": "I get that careless teenager kind of treatment from some of their staff...perhaps they should hire more serious adults to help serve/cook.", "Token": "/"}
+{"True Label": "VERB", "Prediction": "AUX", "TEXT": "there might be bigger and more well known bagel places in the area but Family Bagels are nice people, small shop and incredibly friendly.", "Token": "be"}
+{"True Label": "ADJ", "Prediction": "NOUN", "TEXT": "While other may be ok waiting in line at Town Bagel we are happy with the quality and service we get at Family Bagels", "Token": "other"}
+{"True Label": "NOUN", "Prediction": "PROPN", "TEXT": "The Donuts were very over proofed, making them stale and bready.", "Token": "Donuts"}
+{"True Label": "ADJ", "Prediction": "VERB", "TEXT": "The Donuts were very over proofed, making them stale and bready.", "Token": "proofed"}
+{"True Label": "ADJ", "Prediction": "NOUN", "TEXT": "The service was friendly and fast, but this just doesnt make up for the lack-luster product.", "Token": "lack"}
+{"True Label": "ADJ", "Prediction": "NOUN", "TEXT": "The service was friendly and fast, but this just doesnt make up for the lack-luster product.", "Token": "luster"}
+{"True Label": "PROPN", "Prediction": "NOUN", "TEXT": "Branch out and try something other than the Pad Thai, the curries are fantastic.", "Token": "Pad"}
+{"True Label": "NOUN", "Prediction": "PROPN", "TEXT": "thanks Rich", "Token": "thanks"}
